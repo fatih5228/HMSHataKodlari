@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="tr" sourcelanguage="en">
+  <context>
+    <name>Errors</name>
+    <message id="03004005">
+      <source>The nozzle fan speed is abnormal.</source>
+      <translation>Nozul fan hızı düzgün değil.</translation>
+    </message>
+    <message id="03008010">
+      <source>The nozzle fan speed is abnormal.</source>
+      <translation>Nozul fan hızı düzgün değil.</translation>
+    </message>
+    <message id="12028016">
+      <source>The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button.</source>
+      <translation>Ekstruder normal bir şekilde ekstrüzyon yapmıyor, lütfen HMS'ye başvurun. Sorunu giderdikten sonra, yeniden dene düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038016">
+      <source>The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button.</source>
+      <translation>Ekstruder normal bir şekilde ekstrüzyon yapmıyor, lütfen HMS'ye başvurun. Sorunu giderdikten sonra, yeniden dene düğmesine tıklayın.</translation>
+    </message>
+    <message id="0300400F">
+      <source>No build plate is placed.</source>
+      <translation>Yapı plakası yerleştirilmemiş.</translation>
+    </message>
+    <message id="12008016">
+      <source>The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button.</source>
+      <translation>Ekstruder normal bir şekilde ekstrüzyon yapmıyor, lütfen HMS'ye başvurun. Sorunu giderdikten sonra, yeniden dene düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018016">
+      <source>The extruder is not extruding normally, please refer to the HMS, after trouble shooting, click the retry button.</source>
+      <translation>Ekstruder normal bir şekilde ekstrüzyon yapmıyor, lütfen HMS'ye başvurun. Sorunu giderdikten sonra, yeniden dene düğmesine tıklayın.</translation>
+    </message>
+    <message id="05014038">
+      <source>The regional settings do not match the printer, please check the printer's regional settings.</source>
+      <translation>Bölgesel ayarlar yazıcıyla eşleşmiyor, lütfen yazıcının bölgesel ayarlarını kontrol edin.</translation>
+    </message>
+    <message id="05004002">
+      <source>Unsupported print file path or name. Please resend the printing job.</source>
+      <translation>Desteklenmeyen baskı dosya yolu veya adı. Lütfen baskı işini yeniden gönderin.</translation>
+    </message>
+    <message id="03008016">
+      <source>The nozzle is clogged up with filaments. Please check the nozzle. Then you can tap "Resume" to resume the print job.</source>
+      <translation>Nozul filamentlerle tıkanmış. Lütfen nozulu kontrol edin. Ardından baskı işine devam etmek için "Devam" düğmesine dokunabilirsiniz.</translation>
+    </message>
+    <message id="03008017">
+      <source>Foreign objects detected on  hotbed, Please check and clean the hotbed, Then tap "Resume" button to resume the print job.</source>
+      <translation>Sıcak yatakta yabancı cisimler tespit edildi. Lütfen sıcak yatağı kontrol edip temizleyin. Ardından baskı işine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="05008036">
+      <source>Your sliced file is not consistent with the current printer model. Continue?</source>
+      <translation>Dilimlenmiş dosyanız mevcut yazıcı modeliyle tutarlı değil. Devam edelim mi?</translation>
+    </message>
+    <message id="05004037">
+      <source>Your sliced file is not compatible with current printer model. This file can't be printed on this printer.</source>
+      <translation>Dilimlenmiş dosyanız mevcut yazıcı modeliyle uyumlu değil. Bu dosya bu yazıcıda basılamaz.</translation>
+    </message>
+    <message id="05004038">
+      <source>The nozzle diameter in sliced file is not consistent with the current nozzle setting. This file can't be printed.</source>
+      <translation>Dilimlenmiş dosyadaki nozul çapı, mevcut nozul ayarıyla tutarlı değil. Bu dosya basılamaz.</translation>
+    </message>
+    <message id="1000C003">
+      <source>Enabling traditional timelapse might lead to defects. Continue?</source>
+      <translation>Geleneksel zaman atlamayı etkinleştirmek kusurlara yol açabilir. Devam edilsin mi?</translation>
+    </message>
+    <message id="1001C001">
+      <source>Timelapse is not supported because Spiral vase is enabled in slicing presets.</source>
+      <translation>Zaman atlama desteklenmiyor çünkü dilimleme ayarlarında Spiral vazo etkinleştirildi.</translation>
+    </message>
+    <message id="1001C002">
+      <source>Timelapse is not supported because Print sequence is set to "By object".</source>
+      <translation>Zaman atlama desteklenmiyor çünkü Baskı sırası "Nesneye göre" olarak ayarlandı.</translation>
+    </message>
+    <message id="1000C002">
+      <source>Printing CF material with stainless steel may cause nozzle damage.</source>
+      <translation>Paslanmaz çelikle CF malzemesi baskısı yapmak nozul hasarına yol açabilir.</translation>
+    </message>
+    <message id="1000C001">
+      <source>High bed temperature may lead to filament clogging in the nozzle. Please ensure ventilation for the printer.</source>
+      <translation>Yüksek yatak sıcaklığı nozuldaki filamentin tıkanmasına yol açabilir. Lütfen yazıcının havalandırmasını sağlayın.</translation>
+    </message>
+    <message id="05014035">
+      <source>The device is in the process of binding and cannot respond to new binding requests.</source>
+      <translation>Cihaz bağlanma sürecinde ve yeni bağlanma isteklerine yanıt veremiyor.</translation>
+    </message>
+    <message id="03008014">
+      <source>The nozzle is covered with filament, or the build plate is installed incorrectly. Please clean the nozzle or adjust the position of the build plate. Then you can tap "Resume" to resume the print job.</source>
+      <translation>Nozul filamentle kaplanmış veya yapı plakası yanlış takılmış. Lütfen nozulu temizleyin veya yapı plakasının konumunu ayarlayın. Ardından baskı işine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="03008015">
+      <source>The filament has run out, please load new filament in the "filament" page, then return back to the print page and tap "Resume" to resume the print job.</source>
+      <translation>Filament bitti, lütfen "filament" sayfasında yeni filament yükleyin, ardından baskı sayfasına geri dönüp baskı işine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="05014032">
+      <source>QR code binding is in progress, so device discovery binding cannot be performed. You can scan the QR code on the screen for binding or exit the QR code display page on screen and try device discovery binding.</source>
+      <translation>QR kod bağlama işlemi devam ediyor, bu yüzden cihaz keşfi bağlaması yapılamıyor. Bağlama işlemi için ekrandaki QR kodunu tarayabilir veya ekrandaki QR kodu gösterme sayfasından çıkıp cihaz keşfi bağlamasını deneyebilirsiniz.</translation>
+    </message>
+    <message id="05014033">
+      <source>Your APP region is not matched with your printer, please download the APP in the corresponding region and register your account again.</source>
+      <translation>Uygulamanızın bölgesi yazıcınız ile eşleşmiyor, lütfen ilgili bölgedeki uygulamayı indirip hesabınızı tekrar kaydedin.</translation>
+    </message>
+    <message id="12038001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesilemedi. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesilemedi. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament ekstruderden çıkarılamadı. Lütfen ekstruderin tıkalı olup olmadığını veya filamentin ekstruder içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028004">
+      <source>Failed to pull back the filament from the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament, takım kafasından geri çekilemedi. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038004">
+      <source>Failed to pull back the filament from the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament, takım kafasından geri çekilemedi. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8004">
+      <source>Failed to pull back the filament from the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament, takım kafasından geri çekilemedi. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028005">
+      <source>Failed to feed the filament. Please load the filament, then click the "Retry" button.</source>
+      <translation>Filament beslenemedi. Lütfen filamenti yükleyin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038005">
+      <source>Failed to feed the filament. Please load the filament, then click the "Retry" button.</source>
+      <translation>Filament beslenemedi. Lütfen filamenti yükleyin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8005">
+      <source>Failed to feed the filament. Please load the filament, then click the "Retry" button.</source>
+      <translation>Filament beslenemedi. Lütfen filamenti yükleyin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament takım kafasına beslenemedi. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament takım kafasına beslenemedi. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8006">
+      <source>Please feed from the spool holder until the tool head filament sensor is triggered, and then click the "Retry" button.</source>
+      <translation>Lütfen makara tutucusundan filamenti, takım kafası filament sensörünü tetikleyene kadar besleyin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028007">
+      <source>Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament ekstrüde edilemedi. Lütfen ekstruderin tıkalı olup olmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038007">
+      <source>Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament ekstrüde edilemedi. Lütfen ekstruderin tıkalı olup olmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028010">
+      <source>Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038010">
+      <source>Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8010">
+      <source>Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028011">
+      <source>AMS filament has run out. Please insert a new filament into the AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038011">
+      <source>AMS filament has run out. Please insert a new filament into the AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8011">
+      <source>AMS filament has run out. Please insert a new filament into the AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028012">
+      <source>Failed to get AMS mapping table; please click the "Retry" button to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için lütfen "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038012">
+      <source>Failed to get AMS mapping table; please click the "Retry" button to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için lütfen "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8012">
+      <source>Failed to get AMS mapping table; please click the "Retry" button to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için lütfen "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028013">
+      <source>Timeout while purging old filament. Please check if the filament is stuck or the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı. Lütfen filamentin sıkışıp sıkışmadığını veya ekstrüderin tıkalı olup olmadığını kontrol edin. Sorunu çözdükten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038013">
+      <source>Timeout while purging old filament. Please check if the filament is stuck or the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı. Lütfen filamentin sıkışıp sıkışmadığını veya ekstrüderin tıkalı olup olmadığını kontrol edin. Sorunu çözdükten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FF8013">
+      <source>Timeout while purging old filament. Please check if the filament is stuck or the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı. Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Tekrar Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028015">
+      <source>Failed to pull back the filament from the toolhead. Please check if the filament is stuck or is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından geri çekme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Tekrar Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038015">
+      <source>Failed to pull back the filament from the toolhead. Please check if the filament is stuck or is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından geri çekme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018007">
+      <source>Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamentin ekstrüzyonu başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018010">
+      <source>AMS assist motor is overloaded. Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018011">
+      <source>AMS filament ran out. Please put a new filament into AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti ekstruderden çekme işlemi başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028004">
+      <source>Failed to pull back the filament from the toolhead to AMS. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından AMS'ye geri çekme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028005">
+      <source>Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti AMS'nin dışına besleme işlemi başarısız oldu. Lütfen filamentin ucunu düz şekilde kesin ve makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasına besleme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028007">
+      <source>Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamentin ekstrüzyonu başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028010">
+      <source>AMS assist motor is overloaded. Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028011">
+      <source>AMS filament ran out. Please put a new filament into AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve 'Yeniden Dene' düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti ekstruderden çekme işlemi başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038004">
+      <source>Failed to pull back the filament from the toolhead to AMS. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından AMS'ye geri çekme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038005">
+      <source>Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti AMS'nin dışına besleme işlemi başarısız oldu. Lütfen filamentin ucunu düz şekilde kesin ve makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasına besleme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038007">
+      <source>Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamentin ekstrüzyonu başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038010">
+      <source>AMS assist motor is overloaded. Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038011">
+      <source>AMS filament ran out. Please put a new filament into AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018013">
+      <source>Timeout purging old filament: Please check if the filament is stuck or the extruder is clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı: Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028013">
+      <source>Timeout purging old filament: Please check if the filament is stuck or the extruder is clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı: Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038013">
+      <source>Timeout purging old filament: Please check if the filament is stuck or the extruder is clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı: Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8005">
+      <source>Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti AMS'nin dışına besleme işlemi başarısız oldu. Lütfen filamentin ucunu düz şekilde kesin ve makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8010">
+      <source>AMS assist motor is overloaded. Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8011">
+      <source>AMS filament ran out. Please put a new filament into AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8013">
+      <source>Timeout purging old filament: Please check if the filament is stuck or the extruder is clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti ekstruderden çekme işlemi başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti ekstruderden çekme işlemi başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti ekstruderden çekme işlemi başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008004">
+      <source>Failed to pull back the filament from the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından geri çekme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018004">
+      <source>Failed to pull back the filament from the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından geri çekme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008005">
+      <source>Failed to feed the filament. Please load the filament, then click the "Retry" button.</source>
+      <translation>Filamenti besleme işlemi başarısız oldu. Lütfen filament yükleyin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018005">
+      <source>Failed to feed the filament. Please load the filament and then click the "Retry" button.</source>
+      <translation>Filamenti besleme işlemi başarısız oldu. Lütfen filament yükleyin ve ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasına besleme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasına besleme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018007">
+      <source>Failed to extrude the filament. Please check if the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamentin ekstrüzyonu başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008010">
+      <source>Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018010">
+      <source>Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008011">
+      <source>AMS filament has run out. Please insert a new filament into the AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018011">
+      <source>AMS filament has run out. Please insert a new filament into the AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008012">
+      <source>Failed to get AMS mapping table. Please click the "Retry" button to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı. Devam etmek için lütfen "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018012">
+      <source>Failed to get AMS mapping table; please click the "Retry" button to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için lütfen "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008013">
+      <source>Timeout while purging old filament. Please check if the filament is stuck or the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı. Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018013">
+      <source>Timeout while purging old filament. Please check if the filament is stuck or the extruder clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı. Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008015">
+      <source>Failed to pull back the filament from the toolhead. Please check if the filament is stuck or the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından geri çekme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018015">
+      <source>Failed to pull back the filament from the toolhead. Please check if the filament is stuck or the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından geri çekme işlemi başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti ekstruderden çekme işlemi başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını veya filamentin ekstruderin içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008004">
+      <source>Failed to pull back the filament from the toolhead to AMS. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından AMS'ye geri çekme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008005">
+      <source>Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti AMS'nin dışına besleme işlemi başarısız oldu. Lütfen filamentin ucunu düz şekilde kesin ve makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasına besleme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008007">
+      <source>Failed to extrude the filament. Please check if the extruder is clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamentin ekstrüzyonu başarısız oldu. Lütfen ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008010">
+      <source>AMS assist motor is overloaded. Please check if the spool or filament is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>AMS yardımcı motoru aşırı yüklendi. Lütfen makaranın veya filamentin sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008011">
+      <source>AMS filament ran out. Please put a new filament into AMS and click the "Retry" button.</source>
+      <translation>AMS filament bitti. Lütfen AMS'ye yeni bir filament yerleştirin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018001">
+      <source>Failed to cut the filament. Please check the cutter. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament kesme işlemi başarısız oldu. Lütfen kesiciyi kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018002">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the "Retry" button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018003">
+      <source>Failed to pull out the filament from the extruder. Please check whether the extruder is clogged or whether the filament is broken inside the extruder. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filament ekstruderden çıkarılamadı. Lütfen ekstruderin tıkalı olup olmadığını veya filamentin ekstruder içinde kırılıp kırılmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018004">
+      <source>Failed to pull back the filament from the toolhead to AMS. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasından AMS'ye geri çekme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018005">
+      <source>Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti AMS'nin dışına besleme işlemi başarısız oldu. Lütfen filamentin ucunu düz şekilde kesin ve makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018006">
+      <source>Failed to feed the filament into the toolhead. Please check whether the filament or the spool is stuck. After troubleshooting, click the "Retry" button.</source>
+      <translation>Filamenti takım kafasına besleme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008013">
+      <source>Timeout purging old filament: Please check if the filament is stuck or the extruder is clogged. After troubleshooting, click the "Retry" button.</source>
+      <translation>Eski filament temizlenirken zaman aşımına uğradı: Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12008014">
+      <source>Failed to check the filament location in the tool head, please refer to the HMS. After troubleshooting, click the "Retry" button.</source>
+      <translation>Takım kafasında filament konumu kontrolü başarısız oldu, lütfen HMS'ye bakın. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12018014">
+      <source>Failed to check the filament location in the tool head, please refer to the HMS. After troubleshooting, click the "Retry" button.</source>
+      <translation>Takım kafasında filament konumu kontrolü başarısız oldu, lütfen HMS'ye bakın. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12028014">
+      <source>Failed to check the filament location in the tool head, please refer to the HMS. After troubleshooting, click the "Retry" button.</source>
+      <translation>Takım kafasında filament konumu kontrolü başarısız oldu, lütfen HMS'ye bakın. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12038014">
+      <source>Failed to check the filament location in the tool head; please refer to the HMS. After troubleshooting, click the "Retry" button.</source>
+      <translation>Takım kafasında filament konumu kontrolü başarısız oldu, lütfen HMS'ye bakın. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="0300800A">
+      <source>Purged filaments have piled up in excess chute, which may cause a tool head collision. Please clean the filament. If cleaned or acceptable, tap the resume button to resume the print job.</source>
+      <translation>Temizlenen filamentler fazla haznede birikmiş ve bu durum takım kafası çarpışmasına neden olabilir. Lütfen filamentleri temizleyin. Temizlendiğinde veya kabul edilebilir olduğunda, yazdırma işine devam etmek için devam düğmesine dokunun.</translation>
+    </message>
+    <message id="0300800D">
+      <source>Some objects have fallen down, or the extruder is not extruding normally. If the defects are acceptable, click "Resume" button to resume the print job.</source>
+      <translation>Temizlenen filamentler fazla haznede birikmiş ve bu durum takım kafası çarpışmasına neden olabilir. Lütfen filamentleri temizleyin. Temizlendiğinde veya kabul edilebilir olduğunda, yazdırma işine devam etmek için devam düğmesine dokunun.</translation>
+    </message>
+    <message id="0C008001">
+      <source>First layer defects were detected. If the defects are acceptable, click "Resume" button to resume the print job.</source>
+      <translation>İlk katmanda hatalar tespit edildi. Hatalar kabul edilebilir ise yazdırma işine devam etmek için "Devam" düğmesine tıklayın.</translation>
+    </message>
+    <message id="05008030">
+      <source/>
+      <translation/>
+    </message>
+    <message id="05014034">
+      <source>The slicing progress has not been updated for a long time, and the printing task has exited. Please confirm the parameters and reinitiate printing.</source>
+      <translation>Uzun süredir dilimleme ilerlemesi güncellenmedi ve yazdırma görevi sonlandırıldı. Lütfen parametreleri kontrol edin ve yazdırmayı yeniden başlatın.</translation>
+    </message>
+    <message id="0500402E">
+      <source>The system does not support the file system currently used by the Micro SD card. Please replace the Micro SD card or format the current Micro SD card to FAT32.</source>
+      <translation>Sistem, şu anda Micro SD kart tarafından kullanılan dosya sistemini desteklemiyor. Lütfen Micro SD kartı değiştirin veya mevcut Micro SD kartı FAT32 olarak formatlayın.</translation>
+    </message>
+    <message id="05014024">
+      <source>Cloud access failed. Possible reasons include network instability caused by interference, inability to access the internet, or router firewall configuration restrictions. You can try moving the printer closer to the router or checking the router configuration before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu. Olası nedenler arasında parazit nedeniyle ağ kararsızlığı, internet erişimi olmaması veya yönlendirici güvenlik duvarı yapılandırma kısıtlamaları bulunur. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı veya yönlendirici yapılandırmasını kontrol etmeyi deneyebilirsiniz.</translation>
+    </message>
+    <message id="05014025">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05014026">
+      <source>Cloud access rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05014027">
+      <source>Cloud access failed; this may be caused by network instability due to interference. You can try moving the printer closer to the router before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu; bu, parazit nedeniyle ağ kararsızlığından kaynaklanabilir. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı deneyebilirsiniz.</translation>
+    </message>
+    <message id="05014028">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05014029">
+      <source>Cloud access is rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05014031">
+      <source>Device discovery binding is in progress, and the QR code cannot be displayed on the screen. You can wait for the binding to finish or abort the device discovery binding process in the APP/Studio and retry scanning the QR code on the screen for binding.</source>
+      <translation>Cihaz keşif bağlama işlemi devam ediyor ve QR kodu ekranda görüntülenemiyor. Bağlama işleminin bitmesini bekleyebilir veya APP/Studio'da cihaz keşif bağlama işlemini iptal edip ekrandaki QR kodunu tekrar tarayarak bağlama işlemini yeniden deneyebilirsiniz.</translation>
+    </message>
+    <message id="05014017">
+      <source>Binding failed. Please retry or restart the printer and retry.</source>
+      <translation>Bağlama işlemi başarısız oldu. Lütfen tekrar deneyin veya yazıcıyı yeniden başlatıp tekrar deneyin.</translation>
+    </message>
+    <message id="05014018">
+      <source>Binding configuration information parsing failed,  please try again.</source>
+      <translation>Bağlama yapılandırma bilgileri çözümlenemedi,  lütfen tekrar deneyin.</translation>
+    </message>
+    <message id="05014019">
+      <source>The printer has already been bound. Please unbind it and try again.</source>
+      <translation>Yazıcı zaten bağlanmış. Lütfen bağlantısını kaldırın ve tekrar deneyin.</translation>
+    </message>
+    <message id="0501401A">
+      <source>Cloud access failed. Possible reasons include network instability caused by interference, inability to access the internet, or router firewall configuration restrictions. You can try moving the printer closer to the router or checking the router configuration and then try again.</source>
+      <translation>Bulut erişimi başarısız oldu. Olası nedenler arasında parazit nedeniyle ağ kararsızlığı, internet erişimi olmaması veya yönlendirici güvenlik duvarı yapılandırma kısıtlamaları bulunur. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı veya yönlendirici yapılandırmasını kontrol etmeyi deneyebilirsiniz.</translation>
+    </message>
+    <message id="0501401B">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0501401C">
+      <source>Cloud access is rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0501401D">
+      <source>Cloud access failed, which may be caused by network instability due to interference. You can try moving the printer closer to the router before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu; bu durum, parazit nedeniyle ağ kararsızlığından kaynaklanabilir. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı deneyebilirsiniz.</translation>
+    </message>
+    <message id="0501401E">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0501401F">
+      <source>Authorization timed out. Please make sure that your phone or PC has access to the internet, and ensure that the Bambu Studio/Bambu Handy APP is running in the foreground during the binding operation.</source>
+      <translation>Yetkilendirme zaman aşımına uğradı. Lütfen telefonunuzun veya bilgisayarınızın internet erişimi olduğundan emin olun ve bağlama işlemi sırasında Bambu Studio/Bambu Handy uygulamasının ön planda çalıştığından emin olun.</translation>
+    </message>
+    <message id="05014020">
+      <source>Cloud access rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05014021">
+      <source>Cloud access failed, which may be caused by network instability due to interference. You can try moving the printer closer to the router before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu; bu durum, parazit nedeniyle ağ kararsızlığından kaynaklanabilir. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı deneyebilirsiniz.</translation>
+    </message>
+    <message id="05014022">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05014023">
+      <source>Cloud access rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004032">
+      <source>QR code binding is in progress, and device discovery binding canneot be performed. You can scan the QR code on the screen for binding, or exit the QR code display page on screen and try device discovery binding.</source>
+      <translation>QR kod ile bağlama işlemi devam ediyor ve cihaz keşif bağlama işlemi gerçekleştirilemiyor. Bağlama için ekrandaki QR kodunu tarayabilir veya ekrandaki QR kodu gösterme sayfasından çıkıp cihaz keşif bağlama işlemini deneyebilirsiniz.</translation>
+    </message>
+    <message id="05004031">
+      <source>Device discovery binding is in progress, and the QR code cannot be displayed on the screen. You can wait for the binding to finish or abort the device discovery binding process in the APP/Studio and retry scanning the QR code on the screen for binding.</source>
+      <translation>Cihaz keşif bağlama işlemi devam ediyor ve QR kodu ekranda görüntülenemiyor. Bağlama işleminin bitmesini bekleyebilir veya APP/Studio'da cihaz keşif bağlama işlemini iptal edip ekrandaki QR kodunu tekrar tarayarak bağlama işlemini yeniden deneyebilirsiniz.</translation>
+    </message>
+    <message id="0500402F">
+      <source>The Micro SD card sector data is damaged. Please use the SD card repair tool to repair or format it. If it still cannot be identified, please replace the Micro SD card.</source>
+      <translation>Micro SD kart sektör verileri hasar görmüş. Lütfen SD kart onarım aracını kullanarak onarın veya formatlayın. Eğer hala tanınmıyorsa, lütfen Micro SD kartı değiştirin.</translation>
+    </message>
+    <message id="07FF8004">
+      <source>Failed to pull back the filament from the toolhead to AMS. Please check whether the filament or the spool is stuck. After troubleshooting, click the "retry" button.</source>
+      <translation>Filamenti takım kafasından AMS'ye geri çekme işlemi başarısız oldu. Lütfen filamentin veya makaranın sıkışıp sıkışmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FFC003">
+      <source>Please pull out the filament on the spool holder from the extruder or check if there is filament  broken in the extruder, if AMS is to be used later,please connect PTFE tube to the coupler.</source>
+      <translation>Lütfen ekstruderden makara tutucusundaki filamenti çekin veya ekstruder içinde kırılmış filament  olup olmadığını kontrol edin. Daha sonra AMS kullanılacaksa, lütfen PTFE tüpünü bağlayıcıya bağlayın.</translation>
+    </message>
+    <message id="12FF8003">
+      <source>Please pull out the filament on the spool holder from the extruder or check if there is filament  broken in the extruder, if AMS is to be used later,please connect PTFE tube to the coupler and click the "retry" button.</source>
+      <translation>Lütfen ekstruderden makara tutucusundaki filamenti çekin veya ekstruder içinde kırılmış filament  olup olmadığını kontrol edin. Daha sonra AMS kullanılacaksa, lütfen PTFE tüpünü bağlayıcıya bağlayın ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12FFC003">
+      <source>Please pull out the filament on the spool holder from the extruder or check if there is filament  broken in the extruder, if AMS is to be used later,please connect PTFE tube to the coupler.</source>
+      <translation>Lütfen ekstruderden makara tutucusundaki filamenti çekin veya ekstruder içinde kırılmış filament  olup olmadığını kontrol edin. Daha sonra AMS kullanılacaksa, lütfen PTFE tüpünü bağlayıcıya bağlayın.</translation>
+    </message>
+    <message id="12008007">
+      <source>Failed to extrude the filament. Please check whether the filament is stuck or the extruder clogged. After troubleshooting, click the "retry" button.</source>
+      <translation>Filamentin ekstrüzyonu başarısız oldu. Lütfen filamentin sıkışıp sıkışmadığını veya ekstruderin tıkanıp tıkanmadığını kontrol edin. Sorunu giderdikten sonra "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF8003">
+      <source>Please pull out the filament on the spool holder from the extruder or check if there is filament  broken in the extruder, if AMS is to be used later,please connect PTFE tube to the coupler and click the "retry" button.</source>
+      <translation>Lütfen ekstruderden makara tutucusundaki filamenti çekin veya ekstruder içinde kırılmış filament  olup olmadığını kontrol edin. Daha sonra AMS kullanılacaksa, lütfen PTFE tüpünü bağlayıcıya bağlayın ve "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="0C00800A">
+      <source>The detected build plate is not the same as in G-code.</source>
+      <translation>Algılanan baskı tablası, G-kodundaki ile aynı değil.</translation>
+    </message>
+    <message id="12FF8007">
+      <source>Check nozzle. Click "Done" if filament was extruded, otherwise push filament forward slightly and click "Retry."</source>
+      <translation>Nozulu kontrol edin. Filament ekstrüde edildi ise "Bitti" düğmesine tıklayın, aksi takdirde filamenti biraz ileri itip "Yeniden Dene" düğmesine tıklayın</translation>
+    </message>
+    <message id="03008006">
+      <source>Build plate localization marker was not found. Please stop the print job and find the build plate. You can also tap "Resume" to force-resume the print job.</source>
+      <translation>Baskı tablası yer belirleme işareti bulunamadı. Lütfen yazdırma işini durdurun ve baskı tablasını bulun. Yazdırma işine zorla devam etmek için "Devam" düğmesine de tıklayabilirsiniz.</translation>
+    </message>
+    <message id="03008011">
+      <source>The current build plate is not the same as in G-code. Please stop the print job and replace the build plate. You can also tap "Resume" to force-resume the print job.</source>
+      <translation>Mevcut baskı tablası, G-kodundaki ile aynı değil. Lütfen yazdırma işini durdurun ve baskı tablasını değiştirin. Yazdırma işine zorla devam etmek için "Devam" düğmesine de tıklayabilirsiniz.</translation>
+    </message>
+    <message id="03008012">
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message id="03008013">
+      <source>Printing was paused by the user. You can tap "Resume" to resume the print job.</source>
+      <translation>Yazdırma işlemi kullanıcı tarafından duraklatıldı. Yazdırma işine devam etmek için "Devam" düğmesine tıklayabilirsiniz.</translation>
+    </message>
+    <message id="0500402D">
+      <source>System exception.</source>
+      <translation>Sistem hatası.</translation>
+    </message>
+    <message id="05004027">
+      <source>Cloud access failed; this may be caused by network instability due to interference. You can try moving the printer closer to the router before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu; bu, parazit nedeniyle ağ kararsızlığından kaynaklanabilir. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı deneyebilirsiniz.</translation>
+    </message>
+    <message id="05004028">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004029">
+      <source>Cloud access is rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0500402A">
+      <source>Failed to connect to the router, which may be caused by wireless interference or being too far away from the router. Please try again or move the printer closer to the router and try again.</source>
+      <translation>Yönlendiriciye bağlanılamadı; bu durum kablosuz parazit veya yönlendiriciden çok uzakta olma nedeniyle olabilir. Lütfen tekrar deneyin veya yazıcıyı yönlendiriciye daha yakın bir yere taşıyıp tekrar deneyin.</translation>
+    </message>
+    <message id="0500402C">
+      <source>Failed to obtain IP address, which may be caused by wireless interference resulting in data transmission failure or DHCP address pool of the router being full. Please move the printer closer to the router and try again. If the issue persists, please check router settings to see whether the IP addresses have been exhausted.</source>
+      <translation>IP adresi alınamadı; bu durum kablosuz parazit nedeniyle veri iletim hatası veya yönlendiricinin DHCP adres havuzunun dolu olması nedeniyle olabilir. Lütfen yazıcıyı yönlendiriciye daha yakın bir yere taşıyıp tekrar deneyin. Sorun devam ederse, yönlendirici ayarlarını kontrol ederek IP adreslerinin tükenip tükenmediğini kontrol edin.</translation>
+    </message>
+    <message id="05004016">
+      <source>The MicroSD Card is write-protected. Please replace the MicroSD Card.</source>
+      <translation>MicroSD Kart yazma korumalı. Lütfen MicroSD Kartı değiştirin.</translation>
+    </message>
+    <message id="0500401A">
+      <source>Cloud access failed. Possible reasons include network instability caused by interference, inability to access the internet, or router firewall configuration restrictions. You can try moving the printer closer to the router or checking the router configuration and then try again.</source>
+      <translation>Bulut erişimi başarısız oldu. Olası nedenler arasında parazit nedeniyle ağ kararsızlığı, internet erişimi olmaması veya yönlendirici güvenlik duvarı yapılandırma kısıtlamaları bulunur. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı veya yönlendirici yapılandırmasını kontrol etmeyi deneyebilirsiniz.</translation>
+    </message>
+    <message id="0500401B">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0500401C">
+      <source>Cloud access is rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0500401D">
+      <source>Cloud access failed, which may be caused by network instability due to interference. You can try moving the printer closer to the router before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu; bu durum, parazit nedeniyle ağ kararsızlığından kaynaklanabilir. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı deneyebilirsiniz.</translation>
+    </message>
+    <message id="0500401E">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004020">
+      <source>Cloud access rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004021">
+      <source>Cloud access failed, which may be caused by network instability due to interference. You can try moving the printer closer to the router before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu; bu durum, parazit nedeniyle ağ kararsızlığından kaynaklanabilir. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı deneyebilirsiniz.</translation>
+    </message>
+    <message id="05004022">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004023">
+      <source>Cloud access rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004024">
+      <source>Cloud access failed. Possible reasons include network instability caused by interference, inability to access the internet, or router firewall configuration restrictions. You can try moving the printer closer to the router or checking the router configuration before you try again.</source>
+      <translation>Bulut erişimi başarısız oldu. Olası nedenler arasında parazit nedeniyle ağ kararsızlığı, internet erişimi olmaması veya yönlendirici güvenlik duvarı yapılandırma kısıtlamaları bulunur. Tekrar denemeden önce yazıcıyı yönlendiriciye daha yakın bir yere taşımayı veya yönlendirici yapılandırmasını kontrol etmeyi deneyebilirsiniz.</translation>
+    </message>
+    <message id="05004025">
+      <source>Cloud response is invalid. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut yanıtı geçersiz. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="05004026">
+      <source>Cloud access rejected. If you have tried multiple times and are still failing, please contact customer service.</source>
+      <translation>Bulut erişimi reddedildi. Birden fazla kez denediyseniz ve hala başarısız oluyorsanız, lütfen müşteri hizmetleri ile iletişime geçin.</translation>
+    </message>
+    <message id="0500401F">
+      <source>Authorization timed out. Please make sure that your phone or PC has access to the internet, and ensure that the Bambu Studio/Bambu Handy APP is running in the foreground during the binding operation.</source>
+      <translation>Yetkilendirme zaman aşımına uğradı. Lütfen telefonunuzun veya bilgisayarınızın internet erişimi olduğundan emin olun ve bağlama işlemi sırasında Bambu Studio/Bambu Handy uygulamasının ön planda çalıştığından emin olun.</translation>
+    </message>
+    <message id="0500402B">
+      <source>Router connection failed due to incorrect password. Please check the password and try again.</source>
+      <translation>Yönlendiriciye bağlantı, yanlış şifre nedeniyle başarısız oldu. Lütfen şifreyi kontrol edin ve tekrar deneyin.</translation>
+    </message>
+    <message id="05004017">
+      <source>Binding failed. Please retry or restart the printer and retry.</source>
+      <translation>Bağlama işlemi başarısız oldu. Lütfen tekrar deneyin veya yazıcıyı yeniden başlatıp tekrar deneyin.</translation>
+    </message>
+    <message id="05004018">
+      <source>Binding configuration information parsing failed,  please try again.</source>
+      <translation>Bağlama yapılandırma bilgileri çözümlenemedi,  lütfen tekrar deneyin.</translation>
+    </message>
+    <message id="05004019">
+      <source>The printer has already been bound. Please unbind it and try again.</source>
+      <translation>Yazıcı zaten bağlanmış. Lütfen bağlantısını kaldırın ve tekrar deneyin.</translation>
+    </message>
+    <message id="07FF8007">
+      <source>Please observe the nozzle. If the filament has been extruded, click "Done"; if it is not, please push the filament forward slightly and then click "Retry".</source>
+      <translation>Nozulu kontrol edin. Filament ekstrüde edildi ise "Bitti" düğmesine tıklayın; değilse, filamenti biraz ileri itip ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="12014001">
+      <source>Filament is still loaded from the AMS when it has been disabled. Please unload AMS filament, load from spool holder, and restart print job.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="12024001">
+      <source>Filament is still loaded from the AMS when it has been disabled. Please unload AMS filament, load from spool holder, and restart print job.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="12034001">
+      <source>Filament is still loaded from the AMS when it has been disabled. Please unload AMS filament, load from spool holder, and restart print job.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="12FF4001">
+      <source>Filament is still loaded from the AMS when it has been disabled. Please unload AMS filament, load from spool holder, and restart print job.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="12004001">
+      <source>Filament is still loaded from the AMS when it has been disabled. Please unload AMS filament, load from spool holder, and restart print job.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="12FFC006">
+      <source>Please feed from the spool holder until the tool head filament sensor is triggered.</source>
+      <translation>Lütfen takım kafası filament sensörü tetiklene kadar makara tutucusundan besleyin.</translation>
+    </message>
+    <message id="05004015">
+      <source>There is not enough free storage space for the print job. Please format or clean MicroSD card to release available space.</source>
+      <translation>Yazdırma işlemi için yeterli boş depolama alanı yok. Lütfen MicroSD kartı biçimlendirin veya temizleyerek kullanılabilir alanı serbest bırakın.</translation>
+    </message>
+    <message id="07FFC006">
+      <source>Please feed from the spool holder until the tool head filament sensor is triggered.</source>
+      <translation>Lütfen takım kafası filament sensörü tetiklenene kadar makara tutucusundan besleyin.</translation>
+    </message>
+    <message id="0300800E">
+      <source>The print file is not available. Please check to see if the storage media has been removed.</source>
+      <translation>Yazdırma dosyası mevcut değil. Depolama ortamının çıkarılıp çıkarılmadığını kontrol edin.</translation>
+    </message>
+    <message id="05008013">
+      <source>The print file is not available. Please check to see if the storage media has been removed.</source>
+      <translation>Yazdırma dosyası mevcut değil. Depolama ortamının çıkarılıp çıkarılmadığını kontrol edin.</translation>
+    </message>
+    <message id="05004014">
+      <source>Failed to slice the printing job; please check the settings and restart the print job.</source>
+      <translation>Yazdırma işlemi dilimlenemedi; lütfen ayarları kontrol edin ve yazdırma işlemini yeniden başlatın.</translation>
+    </message>
+    <message id="05004012">
+      <source>The door seems to be open, so printing was paused.</source>
+      <translation>Kapı açık gibi görünüyor, bu nedenle yazdırma durduruldu.</translation>
+    </message>
+    <message id="0300800F">
+      <source>The door seems to be open, so printing was paused.</source>
+      <translation>Kapı açık gibi görünüyor, bu nedenle yazdırma durduruldu.</translation>
+    </message>
+    <message id="0500C011">
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message id="0500C010">
+      <source>MicroSD Card error: please reinsert, format or replace it.</source>
+      <translation>MicroSD Kart hatası: lütfen yeniden takın, biçimlendirin veya değiştirin.</translation>
+    </message>
+    <message id="0500400C">
+      <source>Please insert a MicroSD card and restart the printing job.</source>
+      <translation>MicroSD Kart hatası: lütfen yeniden takın, biçimlendirin veya değiştirin.</translation>
+    </message>
+    <message id="07FF8012">
+      <source>Failed to get AMS mapping table; please click "Retry" to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07FF4001">
+      <source>Filament is still loaded from the AMS after it has been disabled. Please unload the filament, load from the spool holder, and restart printing.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="07FF8006">
+      <source>Please feed from the spool holder until the tool head filament sensor is triggered, and then click "Retry".</source>
+      <translation>Lütfen takım kafası filament sensörü tetiklenene kadar makara tutucusundan besleyin, ardından "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="0300800C">
+      <source>Skipping step detected, auto-recover complete; please resume print and check if there are any layer shift problems.</source>
+      <translation>Atlama adımı algılandı, otomatik kurtarma tamamlandı; lütfen yazdırmaya devam edin ve herhangi bir katman kayması sorunu olup olmadığını kontrol edin.</translation>
+    </message>
+    <message id="0500400E">
+      <source>Printing was cancelled.</source>
+      <translation>Yazdırma iptal edildi.</translation>
+    </message>
+    <message id="0C008009">
+      <source>Build plate localization marker was not found.</source>
+      <translation>Baskı tablası yer belirleme işareti bulunamadı.</translation>
+    </message>
+    <message id="0500400D">
+      <source>Please run a self-test and restart the printing job.</source>
+      <translation>Lütfen bir kendi kendine test çalıştırın ve yazdırma işlemini yeniden başlatın.</translation>
+    </message>
+    <message id="07004001">
+      <source>Filament is still loaded from the AMS after it has been disabled. Please unload the filament, load from the spool holder, and restart printing.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="07014001">
+      <source>Filament is still loaded from the AMS after it has been disabled. Please unload the filament, load from the spool holder, and restart printing.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="07024001">
+      <source>Filament is still loaded from the AMS after it has been disabled. Please unload the filament, load from the spool holder, and restart printing.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="07034001">
+      <source>Filament is still loaded from the AMS after it has been disabled. Please unload the filament, load from the spool holder, and restart printing.</source>
+      <translation>Filament devre dışı bırakıldığı halde AMS'den yüklenmeye devam ediyor. Lütfen AMS filamentini boşaltın, makara tutucudan yükleyin ve yazdırma işini yeniden başlatın.</translation>
+    </message>
+    <message id="0500400B">
+      <source>There was a problem downloading a file. Please check you network connection and resend the printing job.</source>
+      <translation>Bir dosya indirme sorunu oluştu. Lütfen ağ bağlantınızı kontrol edin ve yazdırma işlemini yeniden gönderin.</translation>
+    </message>
+    <message id="05004009">
+      <source>Print jobs are not allowed to be sent while updating logs.</source>
+      <translation>Firmware güncellenirken yazdırma işleri gönderilemez.</translation>
+    </message>
+    <message id="0500400A">
+      <source>The file name is not supported. Please rename and restart the printing job.</source>
+      <translation>Dosya adı desteklenmiyor. Lütfen yeniden adlandırın ve yazdırma işlemini yeniden başlatın.</translation>
+    </message>
+    <message id="0C008005">
+      <source>Purged filament has piled up in the excess chute, which may cause a tool head collision.</source>
+      <translation>Boşaltılan filament fazla, kanalda birikmiştir bu da takım kafasının çarpmasına neden olabilir.</translation>
+    </message>
+    <message id="0C00C006">
+      <source>Purged filament may have piled up in the excess chute.</source>
+      <translation>Boşaltılan filament fazla, haznede birikmiş olabilir.</translation>
+    </message>
+    <message id="0300400E">
+      <source>The motor self-check failed.</source>
+      <translation>Motor otomatik kontrolü başarısız oldu.</translation>
+    </message>
+    <message id="0300800B">
+      <source>The cutter is stuck. Please pull out the cutter handle and click the resume button.</source>
+      <translation>Kesici sıkıştı. Lütfen kesici kolunu çekin ve devam düğmesine tıklayın.</translation>
+    </message>
+    <message id="07008012">
+      <source>Failed to get AMS mapping table; please click "Retry" to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07018012">
+      <source>Failed to get AMS mapping table; please click "Retry" to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07028012">
+      <source>Failed to get AMS mapping table; please click "Retry" to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="07038012">
+      <source>Failed to get AMS mapping table; please click "Retry" to continue.</source>
+      <translation>AMS eşleme tablosu alınamadı; devam etmek için "Yeniden Dene" düğmesine tıklayın.</translation>
+    </message>
+    <message id="0C008002">
+      <source>Spaghetti failure was detected.</source>
+      <translation>Spagetti hatası tespit edildi.</translation>
+    </message>
+    <message id="0C00C003">
+      <source>Possible defects were detected in the first layer.</source>
+      <translation>İlk katmanda olası kusurlar tespit edildi.</translation>
+    </message>
+    <message id="0C00C004">
+      <source>Possible spaghetti failure was detected.</source>
+      <translation>Olası spagetti hatası tespit edildi.</translation>
+    </message>
+    <message id="03004000">
+      <source>Homing Z axis failed.</source>
+      <translation>Z eksenine sıfırlama başarısız oldu.</translation>
+    </message>
+    <message id="03004001">
+      <source>The printer timed out waiting for the nozzle to cool down before homing.</source>
+      <translation>Yazıcı, takım kafasının sıfırlanmadan önce nozulun soğumasını beklerken zaman aşımına uğradı.</translation>
+    </message>
+    <message id="03004002">
+      <source>Mesh bed leveling failed.</source>
+      <translation>Hasır yatak tesviyesi başarısız oldu.</translation>
+    </message>
+    <message id="03004006">
+      <source>The nozzle is clogged.</source>
+      <translation>Nozul tıkalı.</translation>
+    </message>
+    <message id="03004008">
+      <source>The AMS failed to change filament.</source>
+      <translation>AMS, filament değişiminde başarısız oldu.</translation>
+    </message>
+    <message id="03004009">
+      <source>Homing XY axis failed.</source>
+      <translation>XY eksenlerine sıfırlama başarısız oldu.</translation>
+    </message>
+    <message id="0300400A">
+      <source>Mechanical resonance frequency identification failed.</source>
+      <translation>Mekanik rezonans frekansı tanımlaması başarısız oldu.</translation>
+    </message>
+    <message id="0300400B">
+      <source>Internal communication exception.</source>
+      <translation>Dahili iletişim istisnası.</translation>
+    </message>
+    <message id="0300400C">
+      <source>Printing was cancelled.</source>
+      <translation>Yazdırma iptal edildi.</translation>
+    </message>
+    <message id="0300400D">
+      <source>Resume failed after power loss.</source>
+      <translation>Güç kaybı sonrası devam edilemedi.</translation>
+    </message>
+    <message id="03008000">
+      <source>Printing was paused for unknown reason. You can tap "Resume" to resume the print job.</source>
+      <translation>Bilinmeyen bir nedenle yazdırma duraklatıldı. Yazdırma işlemine devam etmek için "Devam" düğmesine dokunabilirsiniz.</translation>
+    </message>
+    <message id="03008001">
+      <source>Printing was paused by the user. You can tap "Resume" to resume the print job.</source>
+      <translation>Yazdırma işlemi kullanıcı tarafından duraklatıldı. Yazdırma işine devam etmek için "Devam" düğmesine tıklayabilirsiniz.</translation>
+    </message>
+    <message id="03008002">
+      <source>First layer defects were detected. If the defects are acceptable, tap "Resume" to resume the print job.</source>
+      <translation>İlk katmanda kusurlar tespit edildi. Kusurlar kabul edilebilir ise, yazdırma işlemine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="03008003">
+      <source>Spaghetti defects were detected. If the defects are acceptable, tap "Resume" to resume the print job.</source>
+      <translation>Spagetti kusurları tespit edildi. Eğer kusurlar kabul edilebilir ise, yazdırma işlemine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="03008004">
+      <source>The filament ran out. Please load new filament in Temperature/Axis and tap "Resume" to resume the print job.</source>
+      <translation>Filament bitti. Lütfen yeni filament yükleyin ve "Devam" düğmesine dokunarak yazdırma işlemine devam edin.</translation>
+    </message>
+    <message id="03008005">
+      <source>Printing was paused because the front cover of tool head fell off. Please mount it back and tap "Resume" to resume the print job.</source>
+      <translation>Takım kafası ön kapağı düştüğü için yazdırma duraklatıldı. Lütfen takım kafasını geri takın ve yazdırma işlemine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="03008007">
+      <source>There was an unfinished print job when the printer powered off. Tap "Resume" to resume the print job.</source>
+      <translation>Yazıcı kapanırken tamamlanmamış bir baskı işlemi vardı. Yazdırma işlemine devam etmek için "Devam" düğmesine dokunun.</translation>
+    </message>
+    <message id="03008008">
+      <source>Nozzle temperature malfunction.</source>
+      <translation>Nozul sıcaklık hatası.</translation>
+    </message>
+    <message id="03008009">
+      <source>Heatbed temperature malfunction.</source>
+      <translation>Isıtma yatağı sıcaklık hatası.</translation>
+    </message>
+    <message id="05004001">
+      <source>Failed to connect to Bambu Cloud. Please check your network connection.</source>
+      <translation>Bambu Buluta bağlanılamadı. Lütfen ağ bağlantınızı kontrol edin.</translation>
+    </message>
+    <message id="05004003">
+      <source>There was a problem parsing gcode.3mf. Please resend the printing job.</source>
+      <translation>gcode.3mf Dosyası ayrıştırılırken bir sorun oluştu. Lütfen yazdırma işlemini yeniden gönderin.</translation>
+    </message>
+    <message id="05004004">
+      <source>Printing jobs are not allowed to be sent while printing.</source>
+      <translation>Yazdırma işlemi sırasında yazdırma işleri gönderilemez.</translation>
+    </message>
+    <message id="05004005">
+      <source>Print jobs are not allowed to be sent while updating firmware.</source>
+      <translation>Firmware güncellenirken yazdırma işleri gönderilemez.</translation>
+    </message>
+    <message id="05004006">
+      <source>There is not enough free storage space for the print job. Restoring to factory settings can release available space.</source>
+      <translation>Yazdırma işlemi için yeterli boş depolama alanı yok. Fabrika ayarlarına geri dönerek kullanılabilir alanı serbest bırakabilirsiniz.</translation>
+    </message>
+    <message id="05004007">
+      <source>Print jobs are not allowed to be sent while force updating or when repair updating is required.</source>
+      <translation>Zorunlu güncelleme sırasında veya onarım güncellemesi gerektiğinde yazdırma işlerinin gönderilmesine izin verilmez.</translation>
+    </message>
+    <message id="05004008">
+      <source>Starting printing failed. please power cycle the printer and resend the print job.</source>
+      <translation>Yazdırmaya başlama başarısız oldu. Lütfen yazıcıyı yeniden başlatın ve yazdırma işlemini yeniden gönderin.</translation>
+    </message>
+  </context>
+</TS>
