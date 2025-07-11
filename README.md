@@ -1,2 +1,2 @@
-# HMSHataKodlari
-Bambulabs Hms Hata Kodları
+# HMS Hata Kodları
+Bambulabs Hms Hata Kodları Türkçe çeviri
