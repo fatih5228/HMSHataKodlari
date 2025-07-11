@@ -1,0 +1,754 @@
+Hata Kodu	 					Açıklama
+0300-0100-0001-000A	Sıcak yatak sıcaklık kontrolü düzgün değil, AC kartı bozulmuş olabilir.
+0300-9100-0001-000A	Kabin ısıtıcı 1'in sıcaklığı düzgün değil. AC kartı bozulmuş olabilir.
+0300-9200-0001-000A	Kabin ısıtıcısı 2'nin sıcaklığı düzgün değil. AC kartı bozulmuş olabilir.
+0300-1700-0001-0001	Nozul fanının hızı çok yavaş veya durmuş. Sıkışmış olabilir veya konektör düzgün takılmamış olabilir.
+0300-1700-0002-0002	Nozul fanının hızı yavaş. Sıkışmış ve temizlenmesi gerekiyor olabilir.
+0300-1800-0001-0002	Ekstrüzyon kuvveti sensörünün hassasiyeti düşüktür, nozul doğru takılmamış olabilir.
+0500-0400-0003-0009	Yatak sıcaklığı filamentin yumşama sıcaklığını aşar, bu da nozül tıkanmasına neden olabilir. Lütfen yazıcının ön kapağını açık tutun. Kapı açma algılamasını geçici olarak kapatın.
+0300-1B00-0001-0001	Isı yatağı hızlanma sensörünün sinyali zayıf. Sensör düşmüş veya hasar görmüş olabilir.
+0300-1B00-0001-0002	Isı yatağı hızlanma sensöründe harici bozulma tespit edildi. Sensör sinyal kablosu sabitlenmemiş olabilir.
+0300-1B00-0001-0003	Isı yatağı hızlanma sensörü beklenmedik sürekli kuvvet algıladı. Sensör sıkışmış veya analog ön uç bozulmuş olabilir.
+0C00-0300-0002-000F	İlk katman denetiminden önce atlanan parçalar, denetim mevcut baskı için desteklenmeyecektir.
+0500-0500-0003-0002	Cihaz mühendislik durumundadır, lütfen bilgi güvenliği ile ilgili konulara dikkat edin.
+0300-0D00-0001-000B	Z ekseni motoru hareket ederken sıkışmış gibi görünüyor. Lütfen Z sürgüleri veya Z triger kayışı tekerlekleri üzerinde herhangi bir yabancı madde olup olmadığını kontrol edin.
+0C00-0300-0002-0010	Sıcak yatak üzerinde yabancı cisimler tespit edildi, Lütfen sıcak yatağı kontrol edin ve temizleyin.
+0500-0500-0001-0001	AP kartının fabrika verileri düzgün değil, lütfen AP kartını yenisiyle değiştirin.
+0300-0D00-0002-0001	Isı yatağı sıfırlanması düzgün değil: ısı yatağında bir çıkıntı olabilir veya nozül ucu temiz olmayabilir.
+0300-1000-0002-0002	X ekseninin rezonans frekansı son kalibrasyondan büyük ölçüde farklıdır. Lütfen karbon çubuğu temizleyin ve ardından makine kalibrasyonunu yeniden çalıştırın.
+0300-1100-0002-0002	Y ekseninin rezonans frekansı son kalibrasyondan büyük ölçüde farklıdır. Lütfen karbon çubuğu temizleyin ve ardından makine kalibrasyonunu yeniden çalıştırın.
+0300-1A00-0002-0002	Nozül filament ile tıkanmış.
+12FF-2000-0002-0007	Takım kafasındaki filament konumu kontrol edilemedi; daha fazla yardım için lütfen tıklayın.
+1201-2000-0002-0006	AMS2 Yuva1 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1202-2000-0002-0006	AMS3 Yuva1 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1203-2000-0002-0006	AMS4 Yuva1 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1200-2100-0002-0006	AMS1 Yuva2 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1201-2100-0002-0006	AMS2 Yuva2 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1202-2100-0002-0006	AMS3 Yuva2 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1203-2100-0002-0006	AMS4 Yuva2 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1200-2200-0002-0006	AMS1 Yuva3 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1201-2200-0002-0006	AMS2 Yuva3 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1202-2200-0002-0006	AMS3 Yuva3 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1203-2200-0002-0006	AMS4 Yuva3 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1200-2300-0002-0006	AMS1 Yuva4 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1201-2300-0002-0006	AMS2 Yuva4 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1200-2000-0002-0006	AMS1 Yuva1 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1202-2300-0002-0006	AMS3 Yuva4 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+1203-2300-0002-0006	AMS4 Yuva4 filamenti ekstrüde edilemedi; ekstrüder tıkanmış olabilir veya filament çok ince olabilir, bu da ekstrüderin kaymasına neden olabilir.
+0300-0200-0001-0009	Nozul sıcaklık kontrolü düzgün değil; sıcak uç takılı olmayabilir. Sıcak ucu takılı olmadan ısıtmak istiyorsanız, lütfen ayarlar sayfasından bakım modunu açın.
+0300-9400-0002-0003	Hazne istenen sıcaklığa ulaşamadı. Makine hazne sıcaklığını beklemeyi bırakacaktır.
+0300-9000-0001-0002	Hazne ısıtması başarısız oldu. Hazne kapalı olmayabilir veya ortam sıcaklığı çok düşük olabilir ya da güç kaynağının ısı dağıtma deliği tıkalı olabilir.
+0300-1A00-0002-0001	Nozül filamentlerle kaplıdır veya yapı plakası eğri yerleştirilmiştir.
+1000-0100-0002-0001	Yatak sıcaklığı filamentin vitrifikasyon sıcaklığını aşıyor. Püskürtme ucunun tıkanmasını önlemek için lütfen yazdırmadan önce yazıcının ön kapısını açın.
+1000-0100-0002-0002	Filamentin gerektirdiği nozul sertliği, yazıcının varsayılan nozul sertliğinden daha yüksektir. Lütfen sertleşmiş nozulu veya filamenti değiştirin, aksi takdirde nozul aşınır veya hasar görür.
+1000-0100-0002-0003	Timelapse kayıt işlemi baskı kalitesini etkileyebilir, lütfen etkinleştirip etkinleştirmeyeceğinizi onaylayın.
+0300-1900-0002-0002	Y ekseni girdap akımı sensörünün hassasiyeti çok düşük.
+12FF-2000-0003-0007	Tüm AMS yuvalarının filament konumu kontrol ediliyor, lütfen bekleyin.
+0500-0300-0001-0004	AHB modülü arızalı. Lütfen cihazı yeniden başlatın.
+0300-9400-0003-0002	Oda sıcaklığı ayar değeri sınırı aştığında, sınır değer ayarlanacaktır.
+0500-0300-0002-0020	Micro SD Kart kapasitesi yazdırma dosyalarını önbelleğe almak için yetersiz.
+0300-1800-0001-0001	Ekstrüzyon kuvveti sensörünün değeri düşük, nozul takılmamış gibi görünüyor.
+0300-1800-0002-0002	Ekstrüzyon kuvveti sensörünün hassasiyeti düşüktür, hotend doğru takılmamış olabilir.
+0300-1800-0001-0003	Ekstrüzyon kuvveti sensörü mevcut değil, MC ve TH arasındaki bağlantı kopmuş veya sensör bozulmuş olabilir.
+0300-1800-0001-0004	Ekstrüzyon kuvveti sensöründen gelen veriler düzgün değildir, sensör bozulmuş olabilir.
+0300-1900-0001-0001	Y eksenindeki girdap akımı sensörü mevcut değildir, kablo kopmuş olmalıdır.
+0300-9400-0003-0001	Hazne soğutması çok yavaş olabilir. Haznedeki gaz toksik değilse soğumaya yardımcı olmak için hazneyi açabilirsiniz.
+0300-9000-0001-0010	Oda sıcaklığı kontrol cihazının iletişimi düzgün değil.
+0300-9100-0001-0008	Hazne ısıtıcı 1 hedef sıcaklığa yükselemedi.
+0300-9300-0001-0006	Hazne sıcaklığı düzgün değil. Hava girişindeki hazne ısıtıcısının sıcaklık sensöründe açık devre olabilir.
+0300-9300-0001-0007	Hazne sıcaklığı düzgün değil. Güç kaynağındaki sıcaklık sensöründe kısa devre olabilir.
+0300-9300-0001-0008	Hazne sıcaklığı düzgün değil. Güç kaynağındaki sıcaklık sensöründe açık devre olabilir.
+0300-9200-0001-0008	Hazne ısıtıcı 2 hedef sıcaklığa yükselemedi.
+0300-9300-0001-0001	Hazne sıcaklığı düzgün değil. Hazne ısıtıcısının sıcaklık sensöründe kısa devre olabilir.
+0300-9300-0001-0002	Hazne sıcaklığı düzgün değil. Hazne ısıtıcısının sıcaklık sensöründe açık devre olabilir.
+0300-9300-0001-0003	Hazne sıcaklığı düzgün değil. Hava çıkışındaki hazne ısıtıcısının sıcaklık sensöründe kısa devre olabilir.
+0300-9300-0001-0004	Hazne sıcaklığı düzgün değil. Hava çıkışındaki hazne ısıtıcısının sıcaklık sensöründe açık devre olabilir.
+0300-9300-0001-0005	Hazne sıcaklığı düzgün değil. Hava girişindeki hazne ısıtıcısının sıcaklık sensöründe kısa devre olabilir.
+0300-9200-0001-0007	Hazne ısıtıcı 2'nin sıcaklığı düzgün değil. Sensörde açık devre olabilir.
+0300-9100-0001-0001	Hazne ısıtıcısının 1 sıcaklığı düzgün değil. Isıtıcıda kısa devre olabilir.
+0300-9100-0001-0002	Hazne ısıtıcısının 1 sıcaklığı düzgün değil. Isıtıcıda açık devre olabilir veya termal sigorta devreye girmiş olabilir.
+0300-9100-0001-0006	Hazne ısıtıcı 1'in sıcaklığı düzgün değil. Sensörde kısa devre olabilir.
+0300-9100-0001-0007	Hazne ısıtıcı 1'nin sıcaklığı düzgün değil. Sensörde açık devre olabilir.
+0300-9200-0001-0001	Hazne ısıtıcısı 2'nin sıcaklığı düzgün değil. Isıtıcıda kısa devre olabilir.
+0300-9200-0001-0002	Hazne ısıtıcısı 2'nin sıcaklığı düzgün değil. Isıtıcıda açık devre olabilir veya termal sigorta devrede olabilir.
+0300-9200-0001-0006	Hazne ısıtıcı 2'in sıcaklığı düzgün değil. Sensörde kısa devre olabilir.
+0300-9000-0001-0001	Hazne ısıtması başarısız. Hazne ısıtıcısı sıcak hava üflemiyor olabilir.
+0500-0300-0001-0023	CTC modülü arızalı. Lütfen cihazı yeniden başlatın.
+0300-9000-0001-0003	Hazne ısıtması başarısız oldu. Güç kaynağının sıcaklığı çok yüksek olabilir.
+0300-9000-0001-0004	Hazne ısıtması başarısız oldu. Isıtma fanının hızı çok düşük.
+0300-9000-0001-0005	Hazne ısıtması başarısız oldu. Termal direnç çok yüksek.
+0300-9100-0001-0003	Hazne ısıtıcı 1'in sıcaklığı düzgün değil. Isıtıcı aşırı sıcaktır.
+0300-9200-0001-0003	Hazne ısıtıcı 2'nin sıcaklığı düzgün değil. Isıtıcı aşırı sıcaktır.
+1200-8200-0002-0001	AMS1 Yuva3 filamenti karışmış veya sıkışmış olabilir.
+1200-8300-0002-0001	AMS1 Yuva4 filamenti karışmış veya sıkışmış olabilir.
+1201-8000-0002-0001	AMS2 Yuva1 filamenti karışmış veya sıkışmış olabilir.
+1201-8100-0002-0001	AMS2 Yuva2 filamenti karışmış veya sıkışmış olabilir.
+1201-8200-0002-0001	AMS2 Yuva3 filamenti karışmış veya sıkışmış olabilir.
+1201-8300-0002-0001	AMS2 Yuva4 filamenti karışmış veya sıkışmış olabilir.
+1202-8000-0002-0001	AMS3 Yuva1 filamenti karışmış veya sıkışmış olabilir.
+1202-8100-0002-0001	AMS3 Yuva2 filamenti karışmış veya sıkışmış olabilir.
+1202-8200-0002-0001	AMS3 Yuva3 filamenti karışmış veya sıkışmış olabilir.
+1202-8300-0002-0001	AMS3 Yuva4 filamenti karışmış veya sıkışmış olabilir.
+1203-8000-0002-0001	AMS4 Yuva1 filamenti karışmış veya sıkışmış olabilir.
+1203-8100-0002-0001	AMS4 Yuva2 filamenti karışmış veya sıkışmış olabilir.
+1203-8200-0002-0001	AMS4 Yuva3 filamenti karışmış veya sıkışmış olabilir.
+1203-8300-0002-0001	AMS4 Yuva4 filamenti karışmış veya sıkışmış olabilir.
+0700-3000-0002-0002	AMS1 Yuva1 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0700-3100-0002-0002	AMS1 Yuva2 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0700-3200-0002-0002	AMS1 Yuva3 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0700-3300-0002-0002	AMS1 Yuva4 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0701-3000-0002-0002	AMS2 Yuva1 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0701-3100-0002-0002	AMS2 Yuva2 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0701-3200-0002-0002	AMS2 Yuva3 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0701-3300-0002-0002	AMS2 Yuva4 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0702-3000-0002-0002	AMS3 Yuva1 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0702-3100-0002-0002	AMS3 Yuva2 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0702-3200-0002-0002	AMS3 Yuva3 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0702-3300-0002-0002	AMS3 Yuva4 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0703-3000-0002-0002	AMS4 Yuva1 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0703-3100-0002-0002	AMS4 Yuva2 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0703-3200-0002-0002	AMS4 Yuva3 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0703-3300-0002-0002	AMS4 Yuva4 üzerindeki RFID etiketi hasar görmüş veya içeriği tanımlanamıyor.
+0500-0300-0003-0022	MicroSD Kart performansında bozulma tespit edildi. Yazdırma işlerini, günlükleri ve video kayıtlarını etkileyebilir. Lütfen MicroSD kartı biçimlendirmeyi veya değiştirmeyi deneyin.
+0500-0400-0002-0010	AMS1 Yuva1 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0011	AMS1 Yuva2 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0012	AMS1 Yuva3 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0014	AMS2 Yuva1 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0015	AMS2 Yuva2 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0016	AMS2 Yuva3 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0017	AMS2 Yuva4 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0018	AMS3 Yuva1 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0019	AMS3 Yuva2 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-001A	AMS3 Yuva3 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-001B	AMS3 Yuva4 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-001C	AMS4 Yuva1 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-001D	AMS4 Yuva2 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-001E	AMS4 Yuva3 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-001F	AMS4 Yuva4 üzerindeki RFID etiketi tanımlanamıyor.
+0500-0400-0002-0013	AMS1 Yuva4 üzerindeki RFID etiketi tanımlanamıyor.
+12FF-8000-0002-0001	Makara tutucusundaki filament karışmış veya sıkışmış olabilir.
+1200-8000-0002-0001	AMS1 Yuva1 filamenti karışmış veya sıkışmış olabilir.
+1200-8100-0002-0001	AMS1 Yuva2 filamenti karışmış veya sıkışmış olabilir.
+1203-1000-0001-0001	AMS4  Yuva1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1203-1100-0001-0001	AMS4 Yuva2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1203-1200-0001-0001	AMS4 Yuva3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1203-1300-0001-0001	AMS4 Yuva4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1203-1000-0002-0002	AMS4 Yuva1 motoru aşırı yüklenmiş. Filament  karışmış veya  sıkışmış olabilir.
+1203-1100-0002-0002	AMS4 Yuva2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1203-1200-0002-0002	AMS4 Yuva3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1203-1300-0002-0002	AMS4 Yuva4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1203-1000-0001-0003	AMS4 Yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1203-1100-0001-0003	AMS4 Yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1203-1200-0001-0003	AMS4 Yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1203-1300-0001-0003	AMS4 Yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1201-1000-0001-0001	AMS2 Yuva1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1202-1000-0001-0001	AMS3 Yuva1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1201-1100-0001-0001	AMS4 Yuva2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1202-1100-0001-0001	AMS4 Yuva2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1201-1200-0001-0001	AMS2 Yuva3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1202-1200-0001-0001	AMS3 Yuva3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1201-1300-0001-0001	AMS2 Yuva4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1202-1300-0001-0001	AMS3 Yuva4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1201-1000-0002-0002	AMS2 Yuva1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1202-1000-0002-0002	AMS3 Yuva1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1201-1100-0002-0002	AMS2 Yuva2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1202-1100-0002-0002	AMS3 Yuva2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1201-1200-0002-0002	AMS2 Yuva3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1202-1200-0002-0002	AMS3 Yuva3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1201-1300-0002-0002	AMS2 Yuva4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1202-1300-0002-0002	AMS3 Yuva4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1201-1000-0001-0003	AMS2 Yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1202-1000-0001-0003	AMS3 Yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1201-1100-0001-0003	AMS2 Yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1202-1100-0001-0003	AMS3 Yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1201-1200-0001-0003	AMS2 Yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1202-1200-0001-0003	AMS3 Yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1201-1300-0001-0003	AMS2 Yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1202-1300-0001-0003	AMS3 Yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+12FF-2000-0002-0002	Makara tutucusundaki filament boş; lütfen yeni bir filament takın.
+1200-3000-0001-0001	AMS1 Yuva1 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1201-3000-0001-0001	AMS2 Yuva1 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1202-3000-0001-0001	AMS3 Yuva1 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1203-3000-0001-0001	AMS4 Yuva1 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1200-3100-0001-0001	AMS1 Yuva2 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1201-3100-0001-0001	AMS2 Yuva2 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1202-3100-0001-0001	AMS3 Yuva2 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1203-3100-0001-0001	AMS4 Yuva2 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1200-3200-0001-0001	AMS1 Yuva3 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1201-3200-0001-0001	AMS2 Yuva3 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1202-3200-0001-0001	AMS3 Yuva3 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1203-3200-0001-0001	AMS4 Yuva3 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1200-3300-0001-0001	AMS1 Yuva4 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1201-3300-0001-0001	AMS2 Yuva4 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1202-3300-0001-0001	AMS3 Yuva4 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1203-3300-0001-0001	AMS4 Yuva4 RFID bobini bozuk veya RF donanım devresinde bir hata var.
+1200-3000-0001-0004	AMS1'deki bir şifreleme çipi arızası nedeniyle RFID okunamıyor.
+1201-3000-0001-0004	AMS2'deki bir şifreleme çipi arızası nedeniyle RFID okunamıyor.
+1202-3000-0001-0004	AMS3'teki bir şifreleme çipi arızası nedeniyle RFID okunamıyor.
+1203-3000-0001-0004	AMS4'teki bir şifreleme çipi arızası nedeniyle RFID okunamıyor.
+1200-4500-0002-0001	Filament kesici sensörü arızalı. Lütfen konektörün düzgün takılıp takılmadığını kontrol edin.
+1200-5000-0002-0001	AMS1 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+1201-5000-0002-0001	AMS2 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+1202-5000-0002-0001	AMS3 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+1203-5000-0002-0001	AMS4 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+1200-5100-0003-0001	AMS devre dışı; lütfen filamenti makara tutucudan yükleyin.
+1201-2000-0002-0001	AMS2 Yuva1 filamenti tükendi; lütfen yeni bir filament yerleştirin.
+1202-2000-0002-0001	AMS3 Yuva1 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1203-2000-0002-0001	AMS4 Yuva1 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1200-2100-0002-0001	AMS1 Yuva2 filamenti tükendi; lütfen yeni bir filament yerleştirin.
+1201-2100-0002-0001	AMS2 Yuva2 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1202-2100-0002-0001	AMS3 Yuva2 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1203-2100-0002-0001	AMS4 Yuva2 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1200-2200-0002-0001	AMS1 Yuva3 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1201-2200-0002-0001	AMS2 Yuva3 filamenti bitti; lütfen yeni bir filament takın.
+1202-2200-0002-0001	AMS3 Yuva3 filamenti bitti; lütfen yeni bir filament takın.
+1203-2200-0002-0001	AMS4 Yuva3 filamenti bitti; lütfen yeni bir filament takın.
+1200-2300-0002-0001	AMS1 Yuva4 filamenti bitti; lütfen yeni bir filament takın.
+1201-2300-0002-0001	AMS2 Yuva4 filamenti bitti; lütfen yeni bir filament takın.
+1202-2300-0002-0001	AMS3 Yuva4 filamenti bitti; lütfen yeni bir filament takın.
+1203-2300-0002-0001	AMS4 Yuva4 filamenti bitti; lütfen yeni bir filament takın.
+12FF-2000-0002-0001	Makara tutucudaki filament bitmiştir; lütfen yeni bir filament takın.
+1201-2000-0002-0002	AMS2 Yuva1 boş; lütfen yeni bir filament yerleştirin.
+1202-2000-0002-0002	AMS3 Yuva1 boş; lütfen yeni bir filament yerleştirin.
+1203-2000-0002-0002	AMS4 Yuva1 boş; lütfen yeni bir filament yerleştirin.
+1200-2100-0002-0002	AMS1 Yuva2 boş; lütfen yeni bir filament yerleştirin.
+1201-2100-0002-0002	AMS2 Yuva2 boş; lütfen yeni bir filament yerleştirin.
+1202-2100-0002-0002	AMS3 Yuva2 boş; lütfen yeni bir filament yerleştirin.
+1203-2100-0002-0002	AMS4 Yuva2 boş; lütfen yeni bir filament yerleştirin.
+1200-2200-0002-0002	AMS1 Yuva3 boş; lütfen yeni bir filament yerleştirin.
+1201-2200-0002-0002	AMS2 Yuva3 boş; lütfen yeni bir filament yerleştirin.
+1202-2200-0002-0002	AMS3 Yuva3 boş; lütfen yeni bir filament yerleştirin.
+1203-2200-0002-0002	AMS4 Yuva3 boş; lütfen yeni bir filament yerleştirin.
+1200-2300-0002-0002	AMS1 Yuva4 boş; lütfen yeni bir filament yerleştirin.
+1201-2300-0002-0002	AMS2 Yuva4 boş; lütfen yeni bir filament yerleştirin.
+1202-2300-0002-0002	AMS3 Yuva4 boş; lütfen yeni bir filament yerleştirin.
+1203-2300-0002-0002	AMS4 Yuva4 boş; lütfen yeni bir filament yerleştirin.
+1203-2100-0002-0005	AMS4 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti ; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1201-2000-0003-0001	AMS2 Yuva1 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1202-2000-0003-0001	AMS3 Yuva1 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1203-2000-0003-0001	AMS4 Yuva1 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1201-2100-0003-0001	AMS2 Yuva2 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1202-2100-0003-0001	AMS3 Yuva2 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1203-2100-0003-0001	AMS4 Yuva2 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1200-2200-0003-0001	AMS1 Yuva3 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1201-2200-0003-0001	AMS2 Yuva3 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1202-2200-0003-0001	AMS3 Yuva3 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1203-2200-0003-0001	AMS4 Yuva3 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1200-2300-0003-0001	AMS1 Yuva4 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1201-2300-0003-0001	AMS2 Yuva4 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1202-2300-0003-0001	AMS3 Yuva4 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1203-2300-0003-0001	AMS4 Yuva4 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1200-2000-0003-0001	AMS1 Yuva1 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1200-2100-0003-0001	AMS1 Yuva2 filamenti tükendi. Eski filament temizleniyor; lütfen bekleyin.
+1201-2000-0003-0002	AMS2 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1202-2000-0003-0002	AMS3 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1203-2000-0003-0002	AMS4 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1200-2100-0003-0002	AMS1 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1201-2100-0003-0002	AMS2 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1202-2100-0003-0002	AMS3 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1203-2100-0003-0002	AMS4 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1200-2200-0003-0002	AMS1 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1201-2200-0003-0002	AMS2 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1202-2200-0003-0002	AMS3 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1203-2200-0003-0002	AMS4 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1200-2300-0003-0002	AMS1 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1201-2300-0003-0002	AMS2 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1202-2300-0003-0002	AMS3 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1203-2300-0003-0002	AMS4 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1202-2200-0002-0004	AMS3 Yuva3 filamenti takım kafasında kırılmış olabilir.
+1203-2200-0002-0004	AMS4 Yuva3 filamenti takım kafasında kırılmış olabilir.
+1200-2300-0002-0004	AMS1 Yuva4 filamenti takım kafasında kırılmış olabilir.
+1201-2300-0002-0004	AMS2 Yuva4 filamenti takım kafasında kırılmış olabilir.
+1202-2300-0002-0004	AMS3 Yuva4 filamenti takım kafasında kırılmış olabilir.
+1203-2300-0002-0004	AMS4 Yuva4 filamenti takım kafasında kırılmış olabilir.
+1200-2000-0003-0002	AMS1 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+1200-1000-0001-0001	AMS1 Yuva1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1200-1100-0001-0001	AMS1 Yuva2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1200-1200-0001-0001	AMS1 Yuva3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1200-1300-0001-0001	AMS1 Yuva4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+1200-1000-0002-0002	AMS1 Yuva1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1200-1100-0002-0002	AMS1 Yuva2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1200-1200-0002-0002	AMS1 Yuva3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1200-1300-0002-0002	AMS1 Yuva4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+1200-1000-0001-0003	AMS1 Yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1200-1100-0001-0003	AMS1 Yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1200-1200-0001-0003	AMS1 Yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1200-1300-0001-0003	AMS1 Yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+1200-2000-0002-0003	AMS1 Yuva1 filamenti PTFE tüpünde kırılmış olabilir.
+1201-2000-0002-0003	AMS2 Yuva1 filamenti PTFE tüpünde kırılmış olabilir.
+1202-2000-0002-0003	AMS3 Yuva1 filamenti PTFE tüp içinde kırılabilir.
+1203-2000-0002-0003	AMS4 Yuva1 filamenti PTFE tüp içinde kırılabilir.
+1200-2100-0002-0003	AMS1 Yuva2 filamenti PTFE tüpünde kırılmış olabilir.
+1201-2100-0002-0003	AMS2 Yuva2 filamenti PTFE tüp içinde kırılabilir.
+1202-2100-0002-0003	AMS3 Yuva2 filamenti PTFE tüp içinde kırılabilir.
+1203-2100-0002-0003	AMS4 Yuva2 filamenti PTFE tüp içinde kırılabilir.
+1200-2200-0002-0003	AMS1 Yuva3 filamenti PTFE tüpünde kırılmış olabilir.
+1201-2200-0002-0003	AMS2 Yuva3 filamenti PTFE tüp içinde kırılabilir.
+1202-2200-0002-0003	AMS3 Yuva3 filamenti PTFE tüp içinde kırılabilir.
+1203-2200-0002-0003	AMS4 Yuva3 filamenti PTFE tüp içinde kırılabilir.
+1200-2300-0002-0003	AMS1 Yuva4 filamenti PTFE tüp içinde kırılabilir.
+1201-2300-0002-0003	AMS2 Yuva4 filamenti PTFE tüp içinde kırılabilir.
+1202-2300-0002-0003	AMS3 Yuva4 filamenti PTFE tüp içinde kırılabilir.
+1203-2300-0002-0003	AMS4 Yuva4 filamenti PTFE tüp içinde kırılabilir.
+1200-2000-0002-0004	AMS1 Yuva1 filamenti takım kafasında kırılmış olabilir.
+1201-2000-0002-0004	AMS2 Yuva1 filamenti takım kafasında kırılmış olabilir.
+1202-2000-0002-0004	AMS3 Yuva1 filamenti takım kafasında kırılmış olabilir.
+1203-2000-0002-0004	AMS4 Yuva1 filamenti takım kafasında kırılmış olabilir.
+1200-2100-0002-0004	AMS1 Yuva2 filamenti takım kafasında kırılmış olabilir.
+1201-2100-0002-0004	AMS2 Yuva2 filamenti takım kafasında kırılmış olabilir.
+1202-2100-0002-0004	AMS3 Yuva2 filamenti takım kafasında kırılmış olabilir.
+1203-2100-0002-0004	AMS4 Yuva2 filamenti takım kafasında kırılmış olabilir.
+1200-2200-0002-0004	AMS1 Yuva3 filamenti takım kafasında kırılmış olabilir.
+1201-2200-0002-0004	AMS2 Yuva3 filamenti takım kafasında kırılmış olabilir.
+1200-2000-0002-0001	AMS1 Yuva1 filamenti bitti; lütfen yeni bir filament yerleştirin.
+1200-2000-0002-0002	AMS1 Yuva1 boş; lütfen yeni bir filament yerleştirin.
+1200-2000-0002-0005	AMS1 Yuva1 filamenti tükendi ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1201-2000-0002-0005	AMS2 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1202-2000-0002-0005	AMS3 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1203-2000-0002-0005	AMS4 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1200-2100-0002-0005	AMS1 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1201-2100-0002-0005	AMS2 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1202-2100-0002-0005	AMS3 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1200-2200-0002-0005	AMS1 Yuva3 filamenti tükendi ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1201-2200-0002-0005	AMS2 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1202-2200-0002-0005	AMS3 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1203-2200-0002-0005	AMS4 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1200-2300-0002-0005	AMS1 Yuva4 filamenti tükendi ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1201-2300-0002-0005	AMS2 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1202-2300-0002-0005	AMS3 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+1203-2300-0002-0005	AMS4 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+12FF-2000-0002-0005	Filament, takım kafasında kırılmış olabilir.
+12FF-2000-0002-0006	Filament ekstrüde edilemedi ve ekstrüder tıkanmış olabilir.
+1200-2400-0002-0001	Filament, takım kafasında kırılmış olabilir.
+1200-2500-0002-0001	Filament, takım kafasında kırılmış olabilir.
+1200-3000-0002-0002	AMS1 Yuva1 üzerindeki RFID etiketi hasar görmüş.
+1201-3000-0002-0002	AMS2 Yuva1 üzerindeki RFID etiketi hasar görmüş.
+1202-3000-0002-0002	AMS3 Yuva1 üzerindeki RFID etiketi hasar görmüş.
+1203-3000-0002-0002	AMS4 Yuva1 üzerindeki RFID etiketi hasar görmüş.
+1200-3100-0002-0002	AMS1 Yuva2 üzerindeki RFID etiketi hasar görmüş.
+1201-3100-0002-0002	AMS2 Yuva2 üzerindeki RFID etiketi hasar görmüş.
+1202-3100-0002-0002	AMS3 Yuva2 üzerindeki RFID etiketi hasar görmüş.
+1203-3100-0002-0002	AMS4 Yuva2 üzerindeki RFID etiketi hasar görmüş.
+1200-3200-0002-0002	AMS1 Yuva3 üzerindeki RFID etiketi hasar görmüş.
+1201-3200-0002-0002	AMS2 Yuva3 üzerindeki RFID etiketi hasar görmüş.
+1202-3200-0002-0002	AMS3 Yuva3 üzerindeki RFID etiketi hasar görmüş.
+1203-3200-0002-0002	AMS4 Yuva3 üzerindeki RFID etiketi hasar görmüş.
+1200-3300-0002-0002	AMS1 Yuva4 üzerindeki RFID etiketi hasar görmüş.
+1201-3300-0002-0002	AMS2 Yuva4 üzerindeki RFID etiketi hasar görmüş.
+1202-3300-0002-0002	AMS3 Yuva4 üzerindeki RFID etiketi hasar görmüş.
+1203-3300-0002-0002	AMS4 Yuva4 üzerindeki RFID etiketi hasar görmüş.
+1200-3000-0003-0003	AMS1 Yuva1 RFID yapısal bir hata nedeniyle okunamıyor.
+1201-3000-0003-0003	AMS2 Yuva1 RFID yapısal bir hata nedeniyle okunamıyor.
+1202-3000-0003-0003	AMS3 Yuva1 RFID yapısal bir hata nedeniyle okunamıyor.
+1203-3000-0003-0003	AMS4 Yuva1 RFID yapısal bir hata nedeniyle okunamıyor.
+1200-3100-0003-0003	AMS1 Yuva2 RFID yapısal bir hata nedeniyle okunamıyor.
+1201-3100-0003-0003	AMS2 Yuva2 RFID yapısal bir hata nedeniyle okunamıyor.
+1202-3100-0003-0003	AMS3 Yuva2 RFID yapısal bir hata nedeniyle okunamıyor.
+1203-3100-0003-0003	AMS4 Yuva2 RFID yapısal bir hata nedeniyle okunamıyor.
+1200-3200-0003-0003	AMS1 Yuva3 RFID yapısal bir hata nedeniyle okunamıyor.
+1201-3200-0003-0003	AMS2 Yuva3 RFID yapısal bir hata nedeniyle okunamıyor.
+1202-3200-0003-0003	AMS3 Yuva3 RFID yapısal bir hata nedeniyle okunamıyor.
+1203-3200-0003-0003	AMS4 Yuva3 RFID yapısal bir hata nedeniyle okunamıyor.
+1200-3300-0003-0003	AMS1 Yuva4 RFID yapısal bir hata nedeniyle okunamıyor.
+1201-3300-0003-0003	AMS2 Yuva4 RFID yapısal bir hata nedeniyle okunamıyor.
+1202-3300-0003-0003	AMS3 Yuva4 RFID yapısal bir hata nedeniyle okunamıyor.
+1203-3300-0003-0003	AMS4 Yuva4 RFID yapısal bir hata nedeniyle okunamıyor.
+1200-4500-0002-0002	Filament kesicinin kesme mesafesi çok büyük. X motoru adımları kaybedebilir.
+1200-4500-0002-0003	Filament kesici kolu serbest bırakılmamış. Sap veya bıçak sıkışmış olabilir.
+1200-7000-0001-0001	AMS1 Filament hızı ve uzunluğu hatası: Yuva 1 filament odometrisi hatalı olabilir.
+1201-7000-0001-0001	AMS2 Filament hızı ve uzunluğu hatası: Yuva 1 filament odometrisi hatalı olabilir.
+1202-7000-0001-0001	AMS3 Filament hızı ve uzunluğu hatası: Yuva 1 filament odometrisi hatalı olabilir.
+1203-7000-0001-0001	AMS4 Filament hızı ve uzunluğu hatası: Yuva 1 filament odometrisi hatalı olabilir.
+1200-7100-0001-0001	AMS1 Filament hızı ve uzunluğu hatası: Yuva 2 filament odometrisi hatalı olabilir.
+1201-7100-0001-0001	AMS2 Filament hızı ve uzunluğu hatası: Yuva 2 filament odometrisi hatalı olabilir.
+1202-7100-0001-0001	AMS3 Filament hızı ve uzunluğu hatası: Yuva 2 filament odometrisi hatalı olabilir.
+1203-7100-0001-0001	AMS4 Filament hızı ve uzunluğu hatası: Yuva 2 filament odometrisi hatalı olabilir.
+1200-7200-0001-0001	AMS1 Filament hızı ve uzunluğu hatası: Yuva 3 filament odometrisi hatalı olabilir.
+1201-7200-0001-0001	AMS2 Filament hızı ve uzunluğu hatası: Yuva 3 filament odometrisi hatalı olabilir.
+1202-7200-0001-0001	AMS3 Filament hızı ve uzunluğu hatası: Yuva 3 filament odometrisi hatalı olabilir.
+1203-7200-0001-0001	AMS4 Filament hızı ve uzunluğu hatası: Yuva 3 filament odometrisi hatalı olabilir.
+1200-7300-0001-0001	AMS1 Filament hızı ve uzunluğu hatası: Yuva 4 filament odometrisi hatalı olabilir.
+1201-7300-0001-0001	AMS2 Filament hızı ve uzunluğu hatası: Yuva 4 filament odometrisi hatalı olabilir.
+1202-7300-0001-0001	AMS3 Filament hızı ve uzunluğu hatası: Yuva 4 filament odometrisi hatalı olabilir.
+1203-7300-0001-0001	AMS4 Filament hızı ve uzunluğu hatası: Yuva 4 filament odometrisi hatalı olabilir.
+12FF-2000-0002-0004	Lütfen makara tutucu üzerindeki filamenti ekstrüderden çekin.
+0500-0100-0003-0007	MicroSD kart takılı olmadan hızlandırılmış fotoğraf kaydedilemiyor.
+0500-0300-0002-0010	ileri yönlü bellek dökümü, kurtarılıyor.
+0500-0300-0002-0011	bellek dökümü güncelleniyor, kurtarılıyor.
+0500-0300-0002-0012	ip kamera bellek dökümü, kurtarılıyor.
+0500-0300-0002-0016	device_manager bellek dökümü, kurtarılıyor.
+0500-0300-0002-0017	kayıt cihazı bellek dökümü, kurtarılıyor.
+0500-0300-0002-0018	güvenlik bellek dökümü, kurtarılıyor.
+0500-0300-0002-0013	xcam bellek dökümü, kurtarılıyor.
+0500-0300-0002-0014	bbl_screen bellek dökümü, kurtarılıyor.
+0500-0300-0002-0015	device_gate bellek dökümü, kurtarılıyor.
+0500-0400-0003-0008	Kapının açık olduğu tespit edildi.
+0700-4000-0002-0004	Filament tampon sinyali düzgün değil; yay sıkışmış olabilir veya filament dolaşmış olabilir.
+0500-0100-0003-0004	MicroSD Kartta yeterli alan yok, lütfen biraz yer açın.
+0500-0100-0003-0005	MicroSD Kart hatası: lütfen yeniden takın, biçimlendirin veya değiştirin.
+0500-0100-0003-0006	Biçimlendirilmemiş MicroSD Kart: lütfen biçimlendirin.
+0700-2000-0002-0002	AMS1 Yuva1 boş; lütfen yeni bir filament yükleyin.
+0700-2100-0002-0002	AMS1 Yuva2 boş; lütfen yeni bir filament yükleyin.
+0700-2200-0002-0002	AMS1 Yuva3 boş; lütfen yeni bir filament yükleyin.
+0700-2300-0002-0002	AMS1 Yuva4 boş; lütfen yeni bir filament yükleyin.
+0701-2000-0002-0002	AMS2 Yuva1 boş; lütfen yeni bir filament yükleyin.
+0701-2100-0002-0002	AMS2 Yuva2 boş; lütfen yeni bir filament yükleyin.
+0701-2200-0002-0002	AMS2 Yuva3 boş; lütfen yeni bir filament yükleyin.
+0701-2300-0002-0002	AMS2 Yuva4 boş; lütfen yeni bir filament yükleyin.
+0702-2000-0002-0002	AMS3 Yuva1 boş; lütfen yeni bir filament yükleyin.
+0702-2100-0002-0002	AMS3 Yuva2 boş; lütfen yeni bir filament yükleyin.
+0702-2200-0002-0002	AMS3 Yuva3 boş; lütfen yeni bir filament yükleyin.
+0702-2300-0002-0002	AMS3 Yuva4 boş; lütfen yeni bir filament yükleyin.
+0703-2000-0002-0002	AMS4 Yuva1 boş; lütfen yeni bir filament yükleyin.
+0703-2100-0002-0002	AMS4 Yuva2 boş; lütfen yeni bir filament yükleyin.
+0703-2200-0002-0002	AMS4 Yuva3 boş; lütfen yeni bir filament yükleyin.
+0703-2300-0002-0002	AMS4 Yuva4 boş; lütfen yeni bir filament yükleyin.
+07FF-2000-0002-0001	Harici filament bitti; lütfen yeni bir filament yükleyin.
+07FF-2000-0002-0002	Harici filament eksik; lütfen yeni bir filament yükleyin.
+07FF-2000-0002-0004	Lütfen harici filamenti ekstrüderden çekin.
+0300-0300-0001-0001	Nozul fanının hızı çok yavaş veya durmuş. Sıkışmış veya konektör düzgün takılmamış olabilir.
+0300-0100-0003-0008	Isıtmalı yatağın sıcaklığı limiti aşar ve otomatik olarak limit sıcaklığa ayarlanır.
+0300-0200-0001-0006	Nozul sıcaklığı düzgün değil; sensörde kısa devre olabilir, lütfen konektörün düzgün takılıp takılmadığını kontrol edin.
+0300-2000-0001-0003	X ekseni sıfırlanması düzgün değil: triger kayışı gevşek olabilir.
+0300-2000-0001-0004	Y ekseni sıfırlanması düzgün değil: triger kayışı gevşek olabilir.
+0C00-0300-0002-0004	Geçerli yazdırma işi için ilk katman denetimi desteklenmiyor.
+0500-0300-0001-0021	Donanım uyumsuz, lütfen lazeri kontrol edin.
+0C00-0300-0003-000D	Bazı nesneler düşmüş olabilir veya ekstrüder normal şekilde ekstrüzyon yapmıyor olabilir. Lütfen kontrol edin ve baskının durdurulup durdurulmayacağına karar verin.
+0700-2000-0003-0001	AMS1 Yuva1 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0700-2100-0003-0001	AMS1 Yuva2 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0700-2200-0003-0001	AMS1 Yuva3 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0700-2000-0003-0002	AMS1 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0700-2100-0003-0002	AMS1 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0700-2200-0003-0002	AMS1 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0C00-0300-0003-0008	Olası spagetti hataları tespit edildi. Lütfen baskı kalitesini kontrol edin ve işin durdurulup durdurulmayacağına karar verin.
+0700-4500-0002-0001	Filament kesici sensörü arızalı; lütfen konektörün düzgün takılıp takılmadığını kontrol edin.
+0C00-0300-0003-0006	Temizlenmiş filament fazla kanalda birikmiş olabilir. Lütfen fazla oluğu kontrol edin ve temizleyin.
+0700-5000-0002-0001	AMS1 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+0701-5000-0002-0001	AMS2 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+0702-5000-0002-0001	AMS3 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+0703-5000-0002-0001	AMS4 iletişimi düzgün değil; lütfen bağlantı kablosunu kontrol edin.
+0700-6000-0002-0001	AMS1 yuva1 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0701-6000-0002-0001	AMS2 yuva1 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0702-6000-0002-0001	AMS3 yuva1 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0703-6000-0002-0001	AMS4 yuva1 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0700-6100-0002-0001	AMS1 yuva2 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0701-6100-0002-0001	AMS2 yuva2 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0702-6100-0002-0001	AMS3 yuva2 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0703-6100-0002-0001	AMS4 slot2 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0700-6200-0002-0001	AMS1 slot3 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0701-6200-0002-0001	AMS2 yuvası3 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0702-6200-0002-0001	AMS3 yuvası3 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0703-6200-0002-0001	AMS4 yuvası3 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0700-6300-0002-0001	AMS1 yuvası4 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0701-6300-0002-0001	AMS2 yuvası4 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0702-6300-0002-0001	AMS3 yuvası4 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0703-6300-0002-0001	AMS4 yuvası4 aşırı yüklenmiş. Filament karışmış veya makara sıkışmış olabilir.
+0700-2000-0002-0004	AMS1 Yuva1 filamenti takım kafasında kırılmış olabilir.
+0702-2000-0002-0004	AMS3 Yuva1 filamenti takım kafasında kırılmış olabilir.
+0703-2000-0002-0004	AMS4 Yuva1 filamenti takım kafasında kırılmış olabilir.
+0700-2100-0002-0004	AMS1 Yuva2 filamenti takım kafasında kırılmış olabilir.
+0701-2100-0002-0004	AMS2 Yuva2 filamenti takım kafasında kırılmış olabilir.
+0702-2100-0002-0004	AMS3 Yuva2 filamenti takım kafasında kırılmış olabilir.
+0703-2100-0002-0004	AMS4 Yuva2 filamenti takım kafasında kırılmış olabilir.
+0700-2200-0002-0004	AMS1 Yuva3 filamenti takım kafasında kırılmış olabilir.
+0701-2200-0002-0004	AMS2 Yuva3 filamenti takım kafasında kırılmış olabilir.
+0702-2200-0002-0004	AMS3 Yuva3 filamenti takım kafasında kırılmış olabilir.
+0703-2200-0002-0004	AMS4 Yuva3 filamenti takım kafasında kırılmış olabilir.
+0700-2300-0002-0004	AMS1 Yuva4 filamenti takım kafasında kırılmış olabilir.
+0701-2300-0002-0004	AMS2 Yuva4 filamenti takım kafasında kırılmış olabilir.
+0702-2300-0002-0004	AMS3 Yuva4 filamenti takım kafasında kırılmış olabilir.
+0703-2300-0002-0004	AMS4 Yuva4 filamenti takım kafasında kırılmış olabilir.
+0702-2000-0002-0005	AMS3 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0703-2000-0002-0005	AMS4 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0702-2100-0002-0005	AMS3 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0703-2100-0002-0005	AMS4 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0702-2200-0002-0005	AMS3 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0703-2200-0002-0005	AMS4 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0702-2300-0002-0005	AMS3 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0703-2300-0002-0005	AMS4 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0701-2000-0003-0002	AMS2 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0702-2000-0003-0002	AMS3 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0703-2000-0003-0002	AMS4 Yuva1 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0701-2100-0003-0002	AMS2 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0702-2100-0003-0002	AMS3 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0703-2100-0003-0002	AMS4 Yuva2 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0701-2200-0003-0002	AMS2 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0702-2200-0003-0002	AMS3 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0703-2200-0003-0002	AMS4 Yuva3 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0700-2300-0003-0002	AMS1 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0701-2300-0003-0002	AMS2 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0702-2300-0003-0002	AMS3 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0703-2300-0003-0002	AMS4 Yuva4 filamenti tükendi ve otomatik olarak aynı filamente sahip yuvaya geçti.
+0500-0200-0002-0002	Cihaz girişi başarısız oldu; lütfen hesap bilgilerinizi kontrol edin.
+0500-0200-0002-0003	İnternete bağlanılamadı; lütfen ağ bağlantısını kontrol edin.
+0500-0200-0002-0004	Yetkisiz kullanıcı: lütfen hesap bilgilerinizi kontrol edin.
+0500-0200-0002-0005	İnternete bağlanılamadı; lütfen ağ bağlantısını kontrol edin.
+0500-0200-0002-0006	Liveview hizmeti arızalı; lütfen ağ bağlantınızı kontrol edin.
+0500-0200-0002-0007	Liveview hizmetinde oturum açma başarısız oldu; lütfen ağ bağlantınızı kontrol edin.
+0500-0300-0001-0001	MC modülü arızalı; lütfen cihazı yeniden başlatın veya cihaz kablo bağlantısını kontrol edin.
+0500-0300-0001-000A	Sistem durumu düzgün değil; lütfen fabrika ayarlarını geri yükleyin.
+0500-0300-0001-000B	Ekran arızalı; lütfen cihazı yeniden başlatın.
+0300-2000-0001-0001	X ekseni sıfırlanması düzgün değil: lütfen takım kafasının sıkışıp sıkışmadığını veya karbon çubuğun çok fazla dirence sahip olup olmadığını kontrol edin.
+0300-2000-0001-0002	Y ekseni sıfırlanması düzgün değil: lütfen takım kafasının sıkışıp sıkışmadığını veya Y taşıyıcısının çok fazla dirence sahip olup olmadığını kontrol edin.
+0300-4000-0002-0001	Seri port üzerinden veri iletimi düzgün değil; yazılım sistemi arızalı olabilir.
+0300-4100-0001-0001	Sistem voltajı dengesiz; güç kesintisi koruma fonksiyonunu tetikliyor.
+0701-2000-0002-0004	AMS2 Yuva1 filamenti takım kafasında kırılmış olabilir.
+0700-2000-0002-0005	AMS1 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0701-2000-0002-0005	AMS2 Yuva1 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0700-2100-0002-0005	AMS1 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0701-2100-0002-0005	AMS2 Yuva2 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0700-2200-0002-0005	AMS1 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0701-2200-0002-0005	AMS2 Yuva3 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0700-2300-0002-0005	AMS1 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0701-2300-0002-0005	AMS2 Yuva4 filamenti bitti ve eski filamentin temizlenmesi düzgün olmayan şekilde gerçekleşti; lütfen filamentin takım kafasında sıkışıp sıkışmadığını kontrol edin.
+0500-0200-0002-0001	İnternete bağlanılamadı. Lütfen ağ bağlantısını kontrol edin.
+0300-0400-0002-0001	Parça soğutma fanının hızı çok yavaş veya durmuş. Sıkışmış olabilir veya konektör düzgün takılmamış olabilir.
+0500-0300-0002-000C	Kablosuz donanım hatası: lütfen WiFi'yi kapatın/açın veya cihazı yeniden başlatın.
+0C00-0300-0003-000B	İlk katman inceleniyor: lütfen bir dakika bekleyin.
+0500-0100-0002-0002	USB kamera bağlı değil. Lütfen video kamera kablo bağlantısını kontrol edin.
+0C00-0200-0002-0004	Nozul yüksekliği çok düşük görünüyor. Lütfen nozulun aşınmış veya eğilmiş olup olmadığını kontrol edin. Nozul değiştirilmişse Lidar'ı yeniden kalibre edin.
+0C00-0300-0003-0007	Olası ilk katman kusurları tespit edildi. Lütfen ilk katman kalitesini kontrol edin ve işin durdurulup durdurulmayacağına karar verin.
+0C00-0100-0001-000B	Mikro Lidar kalibre edilemedi. Lütfen kalibrasyon grafiğinin temiz olduğundan ve tıkalı olmadığından emin olun ve makine kalibrasyonunu tekrar çalıştırın.
+0300-0600-0001-0003	Motor-A'nın direnci düzgün değil, motor arızalanmış olabilir.
+0300-0700-0001-0003	Motor-B'nin direnci düzgün değil, motor arızalanmış olabilir.
+0300-0800-0001-0003	Motor-Z'nin direnci düzgün değil, motor arızalanmış olabilir.
+0300-0900-0001-0003	Motor-E'nin direnci düzgün değil, motor arızalanmış olabilir.
+0300-1300-0001-0001	Motor-A'nın akım sensörü düzgün değil. Bunun nedeni donanım örnekleme devresindeki bir arıza olabilir.
+0300-1400-0001-0001	Motor-B'nin akım sensörü düzgün değil. Bunun nedeni donanım örnekleme devresindeki bir arıza olabilir.
+0300-1500-0001-0001	Motor-Z'nin akım sensörü düzgün değil. Bunun nedeni donanım örnekleme devresindeki bir arıza olabilir.
+0300-1600-0001-0001	Motor-E'nin akım sensörü düzgün değil. Bunun nedeni donanım örnekleme devresindeki bir arıza olabilir.
+0701-2000-0003-0001	AMS2 Yuva1 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0702-2000-0003-0001	AMS3 Yuva1 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0703-2000-0003-0001	AMS4 Yuva1 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0701-2100-0003-0001	AMS2 Yuva2 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0702-2100-0003-0001	AMS3 Yuva2 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0703-2100-0003-0001	AMS4 Yuva2 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0701-2200-0003-0001	AMS2 Yuva3 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0702-2200-0003-0001	AMS3 Yuva3 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0703-2200-0003-0001	AMS4 Yuva3 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0700-2300-0003-0001	AMS1 Yuva4 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0701-2300-0003-0001	AMS2 Yuva4 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0702-2300-0003-0001	AMS3 Yuva4 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0703-2300-0003-0001	AMS4 Yuva4 filamenti tükendi. Eski filament temizlenirken lütfen bekleyin.
+0700-5100-0003-0001	AMS devre dışı; lütfen filamenti makara tutucudan yükleyin.
+0500-0400-0002-0007	Yatak sıcaklığı filamentin yumşama sıcaklığını aşıyor, bu da nozül tıkanmasına neden olabilir. Lütfen yazıcının ön kapağını açık tutun veya yatak sıcaklığını düşürün.
+0C00-0200-0002-0009	Dikey lazer, hedefleme konumunda yeterince parlak değil. Bu mesaj tekrar tekrar görünürse lütfen ısı yatağını temizleyin veya değiştirin.
+0C00-0200-0002-0008	Dikey lazer çizgisi çok geniş. Lütfen ısı yatağının kirli olup olmadığını kontrol edin.
+0702-1100-0001-0003	AMS3 yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0702-1100-0002-0002	AMS3 slot2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0702-1200-0001-0001	AMS3 slot3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0702-1200-0001-0003	The AMS3 slot3 motor torque control is malfunctioning. The current sensor may be faulty.
+0702-1200-0002-0002	AMS3 yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0702-1300-0001-0001	AMS3 slot4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0702-1300-0001-0003	AMS3 Yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0702-1300-0002-0002	AMS3 slot4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0702-2000-0002-0001	AMS3 Yuva1 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0702-2000-0002-0003	AMS3 Slot1'in filamenti AMS'de kırılmış olabilir.
+0702-2100-0002-0001	AMS3 Yuva2 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0702-2100-0002-0003	AMS3 Slot2'nin filamenti AMS'de kırılmış olabilir.
+0702-2200-0002-0001	AMS3 Yuva3 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0702-2200-0002-0003	AMS3 Slot3'ün filamenti AMS'de kırılmış olabilir.
+0702-2300-0002-0001	AMS3 Yuva4 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0702-2300-0002-0003	AMS3 Slot4'ün filamenti AMS'de kırılmış olabilir.
+0702-3000-0001-0001	AMS3 Yuva1 ve Yuva2 arasındaki RFID kartında bir hata var.
+0702-3000-0001-0004	Şifreleme çipi arızası.
+0702-3000-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0702-3100-0001-0001	AMS3 Yuva3 & Yuva4 arasındaki RFID kartında bir hata var.
+0702-3100-0001-0004	Şifreleme çipi arızası.
+0702-3100-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0702-3500-0001-0001	Sıcaklık ve nem sensöründe bir hata var. Çip arızalı olabilir.
+0703-0100-0001-0001	AMS4 destek motoru kaymıştır. Ekstrüzyon çarkı aşınmış olabilir veya filament çok ince olabilir.
+0703-0100-0001-0003	AMS4 yardımcı motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0703-0100-0001-0004	AMS4 yardımcı motor hız kontrolü arızalı. Hız sensörü arızalı olabilir.
+0703-0100-0002-0002	AMS4 yardımcı motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0703-0200-0001-0001	AMS4 Filament hızı ve uzunluğu hatası: Filament odometrisi hatalı olabilir.
+0703-1000-0001-0001	AMS4 slot1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0703-1000-0001-0003	AMS4 yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0703-1000-0002-0002	AMS4 slot1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0703-1100-0001-0001	AMS4 slot2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0703-1100-0001-0003	AMS4 yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0703-1100-0002-0002	AMS4 slot2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0703-1200-0001-0001	AMS4 slot3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0703-1200-0001-0003	AMS4 yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0703-1200-0002-0002	AMS4 slot3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0703-1300-0001-0001	AMS4 Slot4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0703-1300-0001-0003	AMS4 Yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0703-1300-0002-0002	AMS4 slot4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0703-2000-0002-0001	AMS4 Yuva1 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0703-2000-0002-0003	AMS4 Slot1'in filamenti AMS'de kırılmış olabilir.
+0703-2100-0002-0001	AMS4 Yuva2 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0703-2100-0002-0003	AMS4 Slot2'in filamenti AMS'de kırılmış olabilir.
+0703-2200-0002-0001	AMS4 Yuva3 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0703-2200-0002-0003	AMS4 Slot3'ün filamenti AMS'de kırılmış olabilir.
+0703-2300-0002-0001	AMS4 Yuva4 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0703-2300-0002-0003	AMS4 Slot4'ün filamenti AMS'de kırılmış olabilir.
+0703-3000-0001-0001	AMS4 Yuva1 ve Yuva2 arasındaki RFID kartında bir hata var.
+0703-3000-0001-0004	Şifreleme çipi arızası.
+0703-3000-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0703-3100-0001-0001	AMS4 Yuva3 ve Yuva4 arasındaki RFID kartında bir hata var.
+0703-3100-0001-0004	Şifreleme çipi arızası.
+0703-3100-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0703-3500-0001-0001	Sıcaklık ve nem sensöründe bir hata var. Çip arızalı olabilir.
+0C00-0100-0001-0001	Mikro Lidar kamera çevrimdışı. Lütfen donanım bağlantısını kontrol edin.
+0C00-0100-0001-0003	Mikro Lidar kamera ve MCU arasındaki senkronizasyon düzgün değil. Lütfen yazıcınızı yeniden başlatın.
+0C00-0100-0001-0004	Mikro Lidar kamera lensi kirli görünüyor. Lütfen lensi temizleyin.
+0C00-0100-0001-0005	Mikro Lidar kamera OTP parametresi düzgün değil. Lütfen satış sonrası ile iletişime geçin.
+0C00-0100-0001-0009	Oda kamerası merceği kirli görünüyor. Lütfen lensi temizleyin.
+0C00-0100-0002-0002	Mikro Lidar kamera arızalı ve ilgili işlevler başarısız olabilir. Bu mesaj birden fazla baskıda görünmeye devam ederse lütfen satış sonrası ile iletişime geçin.
+0C00-0100-0002-0006	Mikro Lidar kamera dış parametreleri düzgün değil. Lütfen bir sonraki baskınızda akış hızı kalibrasyonunu etkinleştirin.
+0C00-0100-0002-0007	Mikro Lidar lazer parametreleri sapmış. Lütfen yazıcınızı yeniden kalibre edin.
+0C00-0100-0002-0008	Oda kamerasından görüntü alınamadı. Spagetti ve fazla şut yığılması tespiti şimdilik mevcut değil.
+0C00-0200-0001-0001	Yatay lazer yanmıyor. Lütfen kapalı olup olmadığını veya donanım bağlantısının normal olup olmadığını kontrol edin.
+0C00-0200-0001-0005	Yeni bir Mikro Lidar tespit edildi. Lütfen kullanmadan önce Kalibrasyon sayfasından kalibre edin.
+0C00-0200-0002-0002	Yatay lazer çizgisi çok geniş. Lütfen ısı yatağının kirli olup olmadığını kontrol edin.
+0C00-0200-0002-0003	Yatay lazer, hedefleme konumunda yeterince parlak değil. Bu mesaj tekrar tekrar görünürse lütfen ısı yatağını temizleyin veya değiştirin.
+0C00-0200-0002-0006	Nozul yüksekliği çok yüksek görünüyor. Lütfen nozüle bağlı filament kalıntısı olup olmadığını kontrol edin.
+0C00-0300-0001-0009	Birinci katman denetim modülü düzgün olmayan şekilde yeniden başlatıldı. Denetim sonucu hatalı olabilir.
+0C00-0300-0001-000A	Yazıcınız fabrika modunda. Lütfen Teknik Destek ile iletişime geçin.
+0C00-0300-0002-0001	Bu malzemede lazer yansıması çok zayıf olduğu için filament pozlama ölçümü başarısız oldu. İlk katman denetimi hatalı olabilir.
+0C00-0300-0002-0002	İlk katman denetimi düzgün değil Lidar verileri nedeniyle sonlandırıldı.
+0C00-0300-0002-0005	İlk katman denetimi düzgün olmayan şekilde zaman aşımına uğradı ve mevcut sonuçlar hatalı olabilir.
+0C00-0300-0002-000C	Yapı plakası lokalizasyon işaretleyicisi algılanmadı. Lütfen yapı plakasının doğru hizalanıp hizalanmadığını kontrol edin.
+0C00-0200-0002-0007	Dikey lazer yanmıyor. Lütfen kapalı olup olmadığını veya donanım bağlantısının normal olup olmadığını kontrol edin.
+0C00-0300-0003-000E	Yazıcınız ekstrüzyon yapmadan yazdırıyor gibi görünüyor.
+0C00-0300-0003-000F	Nozulunuz sıkışmış veya tıkanmış malzeme ile kaplı görünüyor.
+0C00-0100-0001-000A	Mikro Lidar LED'i kırılmış olabilir.
+0500-0300-0003-0007	Bir sistem paniği meydana geldi. Otomatik yeniden başlatma ile kurtarıldı.
+0500-0400-0001-0001	Yazdırma işi indirilemedi. Lütfen ağ bağlantınızı kontrol edin.
+0500-0400-0001-0002	Yazdırma durumu bildirilemedi. Lütfen ağ bağlantınızı kontrol edin.
+0500-0400-0001-0003	Yazdırma dosyasının içeriği okunamıyor. Lütfen yazdırma işini yeniden gönderin.
+0500-0400-0001-0004	Yazdırma dosyası yetkisizdir.
+0500-0400-0001-0006	Önceki yazdırmaya devam edilemedi.
+0700-0100-0001-0001	AMS1 yardımcı motoru kaymıştır. Ekstrüzyon çarkı aşınmış olabilir veya filament çok ince olabilir.
+0700-0100-0001-0003	AMS1 yardımcı motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0700-0100-0001-0004	AMS1 yardımcı motor hız kontrolü arızalı. Hız sensörü arızalı olabilir.
+0700-0100-0002-0002	AMS1 yardımcı motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0700-0200-0001-0001	AMS1 Filament hızı ve uzunluğu hatası: Filament odometrisi hatalı olabilir.
+0700-1000-0001-0001	AMS1 slot1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0700-1000-0001-0003	AMS1 yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0700-1000-0002-0002	AMS1 slot1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0700-1100-0001-0001	AMS1 slot2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0700-1100-0001-0003	AMS1 yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0700-1100-0002-0002	AMS1 slot2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0700-1200-0001-0001	AMS1 slot3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0700-1200-0001-0003	AMS1 yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0700-1200-0002-0002	AMS1 slot3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0700-1300-0001-0001	AMS1 slot4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0700-1300-0001-0003	AMS1 yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0700-1300-0002-0002	AMS1 slot4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0700-2000-0002-0001	AMS1 Yuva1 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0700-2000-0002-0003	AMS1 Slot1'in filamenti AMS'de kırılmış olabilir.
+0700-2100-0002-0001	AMS1 Yuva2 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0700-2100-0002-0003	AMS1 Slot2'nin filamenti AMS'de kırılmış olabilir.
+0700-2200-0002-0001	AMS1 Yuva3 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0700-2200-0002-0003	AMS1 Slot3'ün filamenti AMS'de kırılmış olabilir.
+0700-2300-0002-0001	AMS1 Yuva4 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0700-2300-0002-0003	AMS1 Slot4'ün filamenti AMS'de kırılmış olabilir.
+0700-3000-0001-0001	AMS1 Yuva1 ve Yuva2 arasındaki RFID kartında bir hata var.
+0700-3000-0001-0004	Şifreleme çipi arızası.
+0700-3000-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0700-3100-0001-0001	AMS1 Yuva3 ve Yuva4 arasındaki RFID kartında bir hata var.
+0700-3100-0001-0004	Şifreleme çipi arızası.
+0700-3100-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0700-3500-0001-0001	Sıcaklık ve nem sensöründe bir hata var. Çip arızalı olabilir.
+0700-4000-0002-0001	Filament tampon konum sinyali kayboldu: kablo veya konum sensörü arızalı olabilir.
+0700-4000-0002-0002	Filament tampon konum sinyali hatası: konum sensörü arızalı olabilir.
+0700-4000-0002-0003	AMS Hub iletişimi düzgün değil, kablo iyi bağlanmamış olabilir.
+0700-4500-0002-0002	Filament kesicinin kesme mesafesi çok büyük. XY motoru adımları kaybedebilir.
+0700-4500-0002-0003	Filament kesici kolu serbest bırakılmamış. Sap veya bıçak sıkışmış olabilir.
+0701-0100-0001-0001	AMS2 destek motoru kaymıştır. Ekstrüzyon çarkı aşınmış olabilir veya filament çok ince olabilir.
+0701-0100-0001-0003	AMS2 yardımcı motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0701-0100-0001-0004	AMS2 yardımcı motor hız kontrolü arızalı. Hız sensörü arızalı olabilir.
+0701-0100-0002-0002	AMS2 yardımcı motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0701-0200-0001-0001	AMS2 Filament hızı ve uzunluğu hatası: Filament odometrisi hatalı olabilir.
+0701-1000-0001-0001	AMS2 slot1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0701-1000-0001-0003	AMS2 yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0701-1000-0002-0002	AMS2 slot1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0701-1100-0001-0001	AMS2 slot2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0701-1100-0001-0003	AMS2 yuva2 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0701-1100-0002-0002	AMS2 slot2 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0701-1200-0001-0001	AMS2 slot3 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0701-1200-0001-0003	AMS2 yuva3 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0701-1200-0002-0002	AMS2 slot3 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0701-1300-0001-0001	AMS2 slot4 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0701-1300-0001-0003	AMS2 yuva4 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0701-1300-0002-0002	AMS2 slot4 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0701-2000-0002-0001	AMS2 Yuva1 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0701-2000-0002-0003	AMS2 Slot1'in filamenti AMS'de kırılmış olabilir.
+0701-2100-0002-0001	AMS2 Yuva2 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0701-2100-0002-0003	AMS2 Slot2'nin filamenti AMS'de kırılmış olabilir.
+0701-2200-0002-0001	AMS2 Yuva3 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0701-2200-0002-0003	AMS2 Slot3'ün filamenti AMS'de kırılmış olabilir.
+0701-2300-0002-0001	AMS2 Yuva4 filamenti tükendi. Lütfen yeni bir filament yerleştirin.
+0701-2300-0002-0003	AMS2 Slot4'ün filamenti AMS'de kırılmış olabilir.
+0701-3000-0001-0001	AMS2 Yuva1 ve Yuva2 arasındaki RFID kartında bir hata var.
+0701-3000-0001-0004	Şifreleme çipi arızası.
+0701-3000-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0701-3100-0001-0001	AMS2 Yuva3 ve Yuva4 arasındaki RFID kartında bir hata var.
+0701-3100-0001-0004	Şifreleme çipi arızası.
+0701-3100-0003-0003	RFID, donanımsal veya yapısal bir hata nedeniyle okunamıyor.
+0701-3500-0001-0001	Sıcaklık ve nem sensöründe bir hata var. Çip arızalı olabilir.
+0702-0100-0001-0001	AMS3 yardımcı motoru kaymıştır. Ekstrüzyon çarkı aşınmış olabilir veya filament çok ince olabilir.
+0702-0100-0001-0003	AMS3 yardımcı motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0702-0100-0001-0004	AMS3 yardımcı motor hız kontrolü arızalı. Hız sensörü arızalı olabilir.
+0702-0100-0002-0002	AMS3 yardımcı motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0702-0200-0001-0001	AMS3 Filament hızı ve uzunluğu hatası: Filament odometrisi hatalı olabilir.
+0702-1000-0001-0001	AMS3 slot1 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0702-1000-0001-0003	AMS3 yuva1 motor tork kontrolü arızalı. Akım sensörü arızalı olabilir.
+0702-1000-0002-0002	AMS3 slot1 motoru aşırı yüklenmiş. Filament karışmış veya sıkışmış olabilir.
+0702-1100-0001-0001	AMS3 yuva2 motoru kaymıştır. Ekstrüzyon çarkı arızalı olabilir veya filament çok ince olabilir.
+0300-0100-0001-0001	Isı yatağı sıcaklığı düzgün değil; ısıtıcıda kısa devre olabilir.
+0300-0100-0001-0002	Isı yatağı sıcaklığı düzgün değil; ısıtıcıda açık devre olabilir veya termal anahtar açık olabilir.
+0300-0100-0001-0003	Isı yatağı sıcaklığı düzgün değil; ısıtıcı aşırı sıcak.
+0300-0100-0001-0006	Isı yatağı sıcaklığı düzgün değil; sensörde kısa devre olabilir.
+0300-0100-0001-0007	Isı yatağı sıcaklığı düzgün değil; sensörde açık devre olabilir.
+0300-0200-0001-0001	Nozul sıcaklığı düzgün değil; ısıtıcıda kısa devre olabilir.
+0300-0200-0001-0002	Nozul sıcaklığı düzgün değil; ısıtıcıda açık devre olabilir.
+0300-0200-0001-0003	Nozul sıcaklığı düzgün değil; ısıtıcı aşırı sıcak.
+0300-0200-0001-0007	Nozul sıcaklığı düzgün değil; sensörde açık devre olabilir.
+0300-0500-0001-0001	Motor sürücüsü aşırı ısınıyor. Radyatörü gevşek olabilir veya soğutma fanı hasar görmüş olabilir.
+0300-0600-0001-0001	Motor-A'da açık devre var. Gevşek bir bağlantı olabilir veya motor arızalanmış olabilir.
+0300-0600-0001-0002	Motor-A'da kısa devre var. Arızalanmış olabilir.
+0300-0700-0001-0001	Motor-B'de açık devre var. Bağlantı gevşek olabilir veya motor arızalanmış olabilir.
+0300-0700-0001-0002	Motor-B'de kısa devre var. Arızalanmış olabilir.
+0300-0800-0001-0001	Motor-Z'de açık devre var. Bağlantı gevşek olabilir veya motor arızalanmış olabilir.
+0300-0800-0001-0002	Motor-Z'de kısa devre var. Arızalanmış olabilir.
+0300-0900-0001-0001	Motor-E'de açık devre var. Bağlantı gevşek olabilir veya motor arızalanmış olabilir.
+0300-0900-0001-0002	Motor-E'de kısa devre var. Arızalanmış olabilir.
+0300-0A00-0001-0001	Isı yatağı kuvvet sensörü 1 çok hassas. Germe kolu ile ısı yatağı desteği arasına sıkışmış olabilir veya ayar vidası çok sıkı olabilir.
+0300-0A00-0001-0002	Isı yatağı kuvvet sensörü 1'in sinyali zayıf. Kuvvet sensörü kırılmış veya elektrik bağlantısı zayıf olabilir.
+0300-0A00-0001-0003	Isı yatağı kuvvet sensörü 1'in sinyali çok zayıf. Sensöre giden elektronik bağlantı kopmuş olabilir.
+0300-0A00-0001-0004	Kuvvet sensörü 1'de harici bir bozulma tespit edildi. Isı yatağı plakası ısı yatağının dışında bir şeye temas etmiş olabilir.
+0300-0A00-0001-0005	Kuvvet sensörü 1 beklenmedik sürekli kuvvet algıladı. Isı yatağı sıkışmış veya analog ön uç kırılmış olabilir.
+0300-0B00-0001-0001	Isı yatağı kuvvet sensörü 2 çok hassas. Germe kolu ile ısı yatağı desteği arasına sıkışmış olabilir veya ayar vidası çok sıkı olabilir.
+0300-0B00-0001-0003	Isı yatağı kuvvet sensörü 2'nin sinyali çok zayıf. Sensöre giden elektronik bağlantı kopmuş olabilir.
+0300-0B00-0001-0004	Kuvvet sensörü 2'de harici bir bozulma tespit edildi. Isı yatağı plakası ısı yatağının dışında bir şeye temas etmiş olabilir.
+0300-0B00-0001-0005	Kuvvet sensörü 2 beklenmedik sürekli kuvvet algıladı. Isı yatağı sıkışmış veya analog ön uç kırılmış olabilir.
+0300-0B00-0001-0002	Isı yatağı kuvvet sensörü 2'nin sinyali zayıf. Kuvvet sensörü kırılmış veya elektrik bağlantısı zayıf olabilir.
+0300-0C00-0001-0001	Isı yatağı kuvvet sensörü 3 çok hassas. Germe kolu ile ısı yatağı desteği arasına sıkışmış olabilir veya ayar vidası çok sıkı olabilir.
+0300-0C00-0001-0002	Isı yatağı kuvvet sensörü 3'ün sinyali zayıf. Kuvvet sensörü kırılmış veya elektrik bağlantısı zayıf olabilir.
+0300-0C00-0001-0003	Isı yatağı kuvvet sensörü 3'ün sinyali çok zayıf. Sensöre giden elektronik bağlantı kopmuş olabilir.
+0300-0C00-0001-0004	Kuvvet sensörü 3'te harici bir bozulma tespit edildi. Isı yatağı plakası ısı yatağının dışında bir şeye temas etmiş olabilir.
+0300-0C00-0001-0005	Kuvvet sensörü 3 beklenmedik sürekli kuvvet algıladı. Isı yatağı sıkışmış veya analog ön uç kırılmış olabilir.
+0300-0D00-0001-0002	Isı yatağı hedef arama başarısız oldu. Çevresel titreşim çok büyük.
+0300-0D00-0001-0003	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-0004	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-0005	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-0006	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-0007	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-0008	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-0009	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0D00-0001-000A	Yapı plakası düzgün yerleştirilmemiş. Lütfen ayarlayın.
+0300-0F00-0001-0001	İvmeölçer verileri kullanılamıyor. Alet kafasına olan iletişim bağlantısı kopmuş veya ivmeölçer hasar görmüş olabilir.
+0300-1000-0002-0001	X ekseninin rezonans frekansı düşük. Triger kayışı gevşek olabilir.
+0300-1100-0002-0001	Y ekseninin rezonans frekansı düşüktür. Triger kayışı gevşek olabilir.
+0300-1200-0002-0001	Alet kafasının ön kapağı düştü.
+0500-0100-0002-0001	Medya boru hattı arızalı.
+0500-0100-0002-0003	USB kamera arızalı.
+0500-0300-0001-0002	Takım kafası arızalı. Lütfen cihazı yeniden başlatın.
+0500-0300-0001-0003	AMS modülü arızalı. Lütfen cihazı yeniden başlatın.
+0500-0300-0001-0005	Dahili servis arızalı. Lütfen cihazı yeniden başlatın.
+0500-0300-0001-0006	Bir sistem paniği meydana geldi. Lütfen cihazı yeniden başlatın.
+0500-0300-0001-0008	Bir sistem kilitlenmesi meydana geldi. Lütfen cihazı yeniden başlatın.
+0500-0300-0001-0009	Bir sistem kilitlenmesi meydana geldi. Otomatik yeniden başlatma ile kurtarıldı.
+0500-0300-0002-000D	SD Kart denetleyicisi arızalı.
