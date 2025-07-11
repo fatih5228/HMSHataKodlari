@@ -1,2 +1,3 @@
 # HMS Hata Kodları
-Bambulabs Hms Hata Kodları Türkçe çeviri
+bambulab Hms Hata Kodları Türkçe çeviri
+Bambulab X1 - X1 Carbon Türkçe çeviri (Base-Error-Hms)
